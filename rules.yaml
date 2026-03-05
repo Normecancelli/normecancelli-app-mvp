@@ -1,0 +1,218 @@
+# NormeCancelli – Assistente Normative (MVP)
+# Questo file è il "cervello": domande + logica + output.
+# Puoi modificarlo senza toccare il codice.
+
+start_node: start
+estimated_questions: 9
+
+nodes:
+  start:
+    type: choice
+    title: "Che cosa stai valutando?"
+    question: "Che tipo di chiusura è?"
+    options:
+      - "Cancello scorrevole"
+      - "Cancello a battente"
+      - "Portone/Sezionale"
+      - "Barriera"
+      - "Altro / Non so"
+    store_as: gate_type
+    set_facts:
+      "Cancello scorrevole":
+        family: "cancello"
+      "Cancello a battente":
+        family: "cancello"
+      "Portone/Sezionale":
+        family: "porta"
+      "Barriera":
+        family: "barriera"
+      "Altro / Non so":
+        family: "altro"
+    next:
+      default: motorized
+
+  motorized:
+    type: yesno
+    title: "Motorizzazione"
+    question: "È motorizzato (automatico) oppure manuale?"
+    store_as: is_motorized
+    set_facts:
+      yes:
+        automation: true
+      no:
+        automation: false
+    next:
+      yes: usage
+      no: end
+
+  usage:
+    type: choice
+    title: "Contesto d'uso"
+    question: "Dove si trova principalmente?"
+    options:
+      - "Condominio / uso collettivo"
+      - "Industriale / commerciale"
+      - "Privato (casa singola)"
+      - "Spazio pubblico (passaggio frequente)"
+    store_as: usage
+    next:
+      default: documents
+
+  documents:
+    type: choice
+    title: "Documenti"
+    question: "Quali documenti esistono oggi (anche parziali)?"
+    options:
+      - "Dichiarazione CE + manuale + fascicolo tecnico"
+      - "Qualcosa c'è, ma incompleto"
+      - "Non c'è niente / non si trova"
+    store_as: docs_level
+    set_facts:
+      "Dichiarazione CE + manuale + fascicolo tecnico":
+        docs_ok: true
+      "Qualcosa c'è, ma incompleto":
+        docs_ok: false
+      "Non c'è niente / non si trova":
+        docs_ok: false
+    next:
+      default: maintenance
+
+  maintenance:
+    type: yesno
+    title: "Manutenzione"
+    question: "C'è un contratto o registro manutenzione aggiornato?"
+    store_as: maintenance_present
+    set_facts:
+      yes:
+        maint_ok: true
+      no:
+        maint_ok: false
+    next:
+      default: photocells
+
+  photocells:
+    type: yesno
+    title: "Dispositivi di sicurezza"
+    question: "Sono presenti fotocellule funzionanti (e non bypassate)?"
+    store_as: photocells_present
+    set_facts:
+      yes:
+        photocells: true
+      no:
+        photocells: false
+    next:
+      default: edge
+
+  edge:
+    type: yesno
+    title: "Bordo sensibile"
+    question: "C'è un bordo sensibile (o altra protezione contro lo schiacciamento) dove serve?"
+    store_as: edge_present
+    set_facts:
+      yes:
+        safety_edge: true
+      no:
+        safety_edge: false
+    next:
+      default: force_limitation
+
+  force_limitation:
+    type: yesno
+    title: "Limitazione forze"
+    question: "La centralina/automazione ha limitazione forze affidabile (encoder, rilevamento ostacolo, test fatto)?"
+    store_as: force_limitation_present
+    set_facts:
+      yes:
+        force_limitation: true
+      no:
+        force_limitation: false
+    next:
+      default: end
+
+  end:
+    type: end
+    title: "Fine"
+    intro: "Questo è un primo responso basato sulle risposte. È un prototipo: la parte potente è che puoi ampliare regole e domande."
+
+results:
+  - title: "Norme tipicamente in gioco (panoramica)"
+    when:
+      clause: {fact: automation, op: "==", value: true}
+    body: |
+      In generale, quando c'è una chiusura motorizzata entrano in ballo:
+      - EN 12453 (requisiti di sicurezza per porte/cancelli motorizzati)
+      - EN 12445 (metodi di prova, in particolare per le forze)
+      - EN 12978 (dispositivi di protezione: fotocellule, bordi, ecc.)
+      - UNI 11894 (manutenzione e controlli: utile come “metodo” operativo)
+      Nota: questo output è volutamente “alto livello” perché ogni caso reale va verificato sul campo.
+    refs: ["EN 12453", "EN 12445", "EN 12978", "UNI 11894"]
+
+  - title: "Mancano documenti: priorità alta"
+    when:
+      all:
+        - {fact: automation, op: "==", value: true}
+        - {fact: docs_ok, op: "==", value: false}
+    body: |
+      Se non esistono (o non si trovano) dichiarazione, manuali e fascicolo tecnico, la priorità è ricostruire la tracciabilità:
+      1) Identificazione impianto e componenti (motore, centrale, dispositivi)
+      2) Analisi dei rischi e misure adottate
+      3) Registro interventi e prove (incluse prove di forza dove applicabile)
+      4) Istruzioni d'uso e manutenzione consegnate a chi gestisce l'impianto
+    refs: ["EN 12453", "EN 12445"]
+
+  - title: "Assenza manutenzione: rischio gestionale"
+    when:
+      all:
+        - {fact: automation, op: "==", value: true}
+        - {fact: maint_ok, op: "==", value: false}
+    body: |
+      Se non c'è manutenzione tracciata (registro/contratto), la gestione si espone:
+      - guasti non intercettati
+      - dispositivi bypassati “per farlo andare”
+      - responsabilità difficili da gestire se succede un incidente
+      Azione pratica: attivare un piano manutenzione con registro e check periodici.
+    refs: ["UNI 11894", "EN 12453"]
+
+  - title: "Fotocellule assenti: da verificare subito"
+    when:
+      all:
+        - {fact: automation, op: "==", value: true}
+        - {fact: photocells, op: "==", value: false}
+    body: |
+      Mancanza fotocellule (o non funzionanti) = campanello d’allarme.
+      In molte installazioni sono una protezione base contro l'urto e il trascinamento.
+      Azione: verifica schema, posizione, cablaggio, logiche centrale e test funzionali.
+    refs: ["EN 12978", "EN 12453"]
+
+  - title: "Bordo sensibile assente: attenzione allo schiacciamento"
+    when:
+      all:
+        - {fact: automation, op: "==", value: true}
+        - {fact: safety_edge, op: "==", value: false}
+        - {fact: gate_type, op: "in", value: ["Cancello scorrevole", "Cancello a battente"]}
+    body: |
+      Se manca il bordo sensibile dove serve, il rischio tipico è lo schiacciamento.
+      Non vuol dire che “serve sempre”, ma va ragionato sui punti pericolosi reali:
+      - zona di chiusura
+      - zone di cesoiamento / intrappolamento
+      Azione: mappare i punti di rischio e scegliere protezioni adeguate (bordi, distanze, ripari, logiche).
+    refs: ["EN 12453", "EN 12978"]
+
+  - title: "Limitazione forze non affidabile: da testare (e spesso aggiornare)"
+    when:
+      all:
+        - {fact: automation, op: "==", value: true}
+        - {fact: force_limitation, op: "==", value: false}
+    body: |
+      Se non sei sicuro della limitazione forze (o non è stata mai testata), evita di “fidarti a sensazione”.
+      Azione: verifica impostazioni, componenti, e fai prove coerenti con metodi di misura.
+      Spesso un upgrade (encoder, centrale adeguata, dispositivi) risolve più di mille discussioni.
+    refs: ["EN 12445", "EN 12453"]
+
+  - title: "Caso 'manuale': qui la storia cambia"
+    when:
+      clause: {fact: automation, op: "==", value: false}
+    body: |
+      Se è manuale, la parte 'automazione' (forze, fotocellule ecc.) non si applica allo stesso modo.
+      Restano però temi di sicurezza meccanica e uso corretto. Questo MVP è pensato soprattutto per impianti motorizzati.
+    refs: []
