@@ -1,15 +1,15 @@
-# NormeCancelli – Assistente Normative (MVP)
-# Questo file è il "cervello": domande + logica + output.
-# Puoi modificarlo senza toccare il codice.
+# NormeCancelli – Assistente Normative (MVP) – rules_v2.yaml
+# Versione più "da campo": più domande utili + output più operativo.
+# Nota: evita di riportare testo integrale delle norme. Qui usiamo checklist e riferimenti.
 
 start_node: start
-estimated_questions: 9
+estimated_questions: 13
 
 nodes:
   start:
     type: choice
-    title: "Che cosa stai valutando?"
-    question: "Che tipo di chiusura è?"
+    title: "Tipo di chiusura"
+    question: "Che tipo di impianto stai valutando?"
     options:
       - "Cancello scorrevole"
       - "Cancello a battente"
@@ -55,6 +55,63 @@ nodes:
       - "Privato (casa singola)"
       - "Spazio pubblico (passaggio frequente)"
     store_as: usage
+    set_facts:
+      "Condominio / uso collettivo":
+        use_kind: "collective"
+      "Industriale / commerciale":
+        use_kind: "industrial"
+      "Privato (casa singola)":
+        use_kind: "private"
+      "Spazio pubblico (passaggio frequente)":
+        use_kind: "public"
+    next:
+      default: public_access
+
+  public_access:
+    type: yesno
+    title: "Accessibilità"
+    question: "Le persone (anche non autorizzate) possono avvicinarsi facilmente alla zona di movimento?"
+    store_as: easy_access
+    set_facts:
+      yes:
+        easy_access: true
+      no:
+        easy_access: false
+    next:
+      default: command_type
+
+  command_type:
+    type: choice
+    title: "Tipo comando"
+    question: "Come viene comandato di solito?"
+    options:
+      - "Uomo presente (tasto tenuto premuto, tipo 'dead-man')"
+      - "Impulso (apre/chiude da solo con un colpo)"
+      - "Telecomando/chiave con persona presente (ma non è uomo presente)"
+      - "Non so / variabile"
+    store_as: command_type
+    set_facts:
+      "Uomo presente (tasto tenuto premuto, tipo 'dead-man')":
+        hold_to_run: true
+      "Impulso (apre/chiude da solo con un colpo)":
+        hold_to_run: false
+      "Telecomando/chiave con persona presente (ma non è uomo presente)":
+        hold_to_run: false
+      "Non so / variabile":
+        hold_to_run: false
+    next:
+      default: auto_close
+
+  auto_close:
+    type: yesno
+    title: "Chiusura automatica"
+    question: "Ha la chiusura automatica a tempo (timer) o richiude da solo?"
+    store_as: auto_close
+    set_facts:
+      yes:
+        auto_close: true
+      no:
+        auto_close: false
     next:
       default: documents
 
@@ -63,12 +120,12 @@ nodes:
     title: "Documenti"
     question: "Quali documenti esistono oggi (anche parziali)?"
     options:
-      - "Dichiarazione CE + manuale + fascicolo tecnico"
+      - "Dichiarazione CE + manuali + fascicolo tecnico"
       - "Qualcosa c'è, ma incompleto"
       - "Non c'è niente / non si trova"
     store_as: docs_level
     set_facts:
-      "Dichiarazione CE + manuale + fascicolo tecnico":
+      "Dichiarazione CE + manuali + fascicolo tecnico":
         docs_ok: true
       "Qualcosa c'è, ma incompleto":
         docs_ok: false
@@ -80,7 +137,7 @@ nodes:
   maintenance:
     type: yesno
     title: "Manutenzione"
-    question: "C'è un contratto o registro manutenzione aggiornato?"
+    question: "C'è un contratto o un registro manutenzione aggiornato?"
     store_as: maintenance_present
     set_facts:
       yes:
@@ -88,11 +145,30 @@ nodes:
       no:
         maint_ok: false
     next:
+      default: force_test
+
+  force_test:
+    type: choice
+    title: "Prove e tarature"
+    question: "Sono state fatte prove/tarature (es. forze) con metodo verificabile?"
+    options:
+      - "Sì, prove eseguite e registrate (strumento / report)"
+      - "Forse / non so"
+      - "No"
+    store_as: force_tests
+    set_facts:
+      "Sì, prove eseguite e registrate (strumento / report)":
+        force_tested: true
+      "Forse / non so":
+        force_tested: false
+      "No":
+        force_tested: false
+    next:
       default: photocells
 
   photocells:
     type: yesno
-    title: "Dispositivi di sicurezza"
+    title: "Fotocellule"
     question: "Sono presenti fotocellule funzionanti (e non bypassate)?"
     store_as: photocells_present
     set_facts:
@@ -105,8 +181,8 @@ nodes:
 
   edge:
     type: yesno
-    title: "Bordo sensibile"
-    question: "C'è un bordo sensibile (o altra protezione contro lo schiacciamento) dove serve?"
+    title: "Bordo sensibile / antischiacciamento"
+    question: "C'è un bordo sensibile (o altra protezione equivalente) dove serve?"
     store_as: edge_present
     set_facts:
       yes:
@@ -118,8 +194,8 @@ nodes:
 
   force_limitation:
     type: yesno
-    title: "Limitazione forze"
-    question: "La centralina/automazione ha limitazione forze affidabile (encoder, rilevamento ostacolo, test fatto)?"
+    title: "Rilevamento ostacolo / limitazione forze"
+    question: "La centrale ha limitazione forze affidabile (encoder / rilevamento ostacolo) e sei ragionevolmente sicuro che funzioni?"
     store_as: force_limitation_present
     set_facts:
       yes:
@@ -127,92 +203,165 @@ nodes:
       no:
         force_limitation: false
     next:
+      default: warning
+
+  warning:
+    type: yesno
+    title: "Segnalazioni"
+    question: "Ci sono segnalazioni visive/acustiche (lampeggiante, cartello di avviso) e sono funzionanti?"
+    store_as: warnings_present
+    set_facts:
+      yes:
+        warnings_ok: true
+      no:
+        warnings_ok: false
+    next:
       default: end
 
   end:
     type: end
     title: "Fine"
-    intro: "Questo è un primo responso basato sulle risposte. È un prototipo: la parte potente è che puoi ampliare regole e domande."
+    intro: "Responso operativo (MVP) basato sulle risposte. Usalo come check iniziale, poi conferma sul campo."
 
 results:
-  - title: "Norme tipicamente in gioco (panoramica)"
+  - title: "Riferimenti tipicamente coinvolti (panoramica)"
     when:
       clause: {fact: automation, op: "==", value: true}
     body: |
-      In generale, quando c'è una chiusura motorizzata entrano in ballo:
-      - EN 12453 (requisiti di sicurezza per porte/cancelli motorizzati)
-      - EN 12445 (metodi di prova, in particolare per le forze)
+      In generale, su chiusure motorizzate entrano spesso in gioco:
+      - EN 12453 (sicurezza in uso di porte/cancelli motorizzati)
+      - EN 12445 (metodi di prova, incluse prove sulle forze)
       - EN 12978 (dispositivi di protezione: fotocellule, bordi, ecc.)
-      - UNI 11894 (manutenzione e controlli: utile come “metodo” operativo)
-      Nota: questo output è volutamente “alto livello” perché ogni caso reale va verificato sul campo.
-    refs: ["EN 12453", "EN 12445", "EN 12978", "UNI 11894"]
+      - UNI 11894 (buone pratiche su manutenzione/controlli e gestione)
+      - EN 12604 (aspetti meccanici/sicurezza strutturale in molte chiusure)
+      Nota: qui non “citiamo la norma”, ma ti diamo un orientamento.
+    refs: ["EN 12453", "EN 12445", "EN 12978", "UNI 11894", "EN 12604"]
 
-  - title: "Mancano documenti: priorità alta"
+  - title: "Priorità alta: impianto accessibile + protezioni deboli"
+    when:
+      all:
+        - {fact: easy_access, op: "==", value: true}
+        - {fact: automation, op: "==", value: true}
+      any:
+        - {fact: photocells, op: "==", value: false}
+        - {fact: force_limitation, op: "==", value: false}
+    body: |
+      Se l’area è facilmente accessibile e mancano protezioni base (fotocellule / limitazione forze),
+      considera questo un campanello d’allarme serio.
+      Azione pratica (MVP):
+      1) verifica subito se qualcuno ha bypassato dispositivi
+      2) riduci il rischio in attesa di adeguamento (es. disabilita auto-chiusura, limita velocità, gestisci accessi)
+      3) pianifica intervento tecnico con test e registrazione
+    refs: ["EN 12453", "EN 12978", "EN 12445"]
+
+  - title: "Chiusura automatica senza protezioni: rischio aumentato"
+    when:
+      all:
+        - {fact: auto_close, op: "==", value: true}
+        - {fact: automation, op: "==", value: true}
+      any:
+        - {fact: photocells, op: "==", value: false}
+        - {fact: safety_edge, op: "==", value: false}
+    body: |
+      Se richiude da solo (timer) e mancano protezioni, il rischio di urto/trascinamento aumenta.
+      Azione pratica:
+      - verifica logiche della centrale
+      - valuta disabilitazione del timer finché non ripristini le protezioni
+      - test funzionali e registrazione esito
+    refs: ["EN 12453", "EN 12978"]
+
+  - title: "Mancano documenti: ricostruire tracciabilità"
     when:
       all:
         - {fact: automation, op: "==", value: true}
         - {fact: docs_ok, op: "==", value: false}
     body: |
-      Se non esistono (o non si trovano) dichiarazione, manuali e fascicolo tecnico, la priorità è ricostruire la tracciabilità:
-      1) Identificazione impianto e componenti (motore, centrale, dispositivi)
-      2) Analisi dei rischi e misure adottate
-      3) Registro interventi e prove (incluse prove di forza dove applicabile)
-      4) Istruzioni d'uso e manutenzione consegnate a chi gestisce l'impianto
+      Se dichiarazione/manuali/fascicolo sono assenti o incompleti, la priorità è ricostruire la tracciabilità:
+      1) identificazione impianto e componenti (motore, centrale, dispositivi)
+      2) analisi rischi e misure adottate
+      3) prove e verifiche (incluse prove di forza quando applicabile)
+      4) istruzioni d’uso/manutenzione consegnate a chi gestisce l’impianto
     refs: ["EN 12453", "EN 12445"]
 
-  - title: "Assenza manutenzione: rischio gestionale"
+  - title: "Assenza manutenzione: rischio gestionale (e responsabilità)"
     when:
       all:
         - {fact: automation, op: "==", value: true}
         - {fact: maint_ok, op: "==", value: false}
     body: |
-      Se non c'è manutenzione tracciata (registro/contratto), la gestione si espone:
+      Senza manutenzione tracciata (registro/contratto), la gestione si espone:
       - guasti non intercettati
       - dispositivi bypassati “per farlo andare”
-      - responsabilità difficili da gestire se succede un incidente
-      Azione pratica: attivare un piano manutenzione con registro e check periodici.
+      - difficoltà a dimostrare controlli e interventi
+      Azione pratica: attivare piano manutenzione + registro interventi con check periodici.
     refs: ["UNI 11894", "EN 12453"]
 
-  - title: "Fotocellule assenti: da verificare subito"
+  - title: "Prove non documentate: evita la taratura “a sentimento”"
+    when:
+      all:
+        - {fact: automation, op: "==", value: true}
+        - {fact: force_tested, op: "==", value: false}
+    body: |
+      Se non hai prove/tarature verificabili, evita di considerare l’impianto “ok” solo perché sembra funzionare.
+      Azione pratica:
+      - verifica impostazioni e componenti
+      - esegui prove coerenti con metodi e registra i risultati
+      - se serve, valuta upgrade di centrale/sensori
+    refs: ["EN 12445", "EN 12453"]
+
+  - title: "Fotocellule assenti/non ok: verifica immediata"
     when:
       all:
         - {fact: automation, op: "==", value: true}
         - {fact: photocells, op: "==", value: false}
     body: |
-      Mancanza fotocellule (o non funzionanti) = campanello d’allarme.
-      In molte installazioni sono una protezione base contro l'urto e il trascinamento.
-      Azione: verifica schema, posizione, cablaggio, logiche centrale e test funzionali.
+      Fotocellule assenti o non funzionanti = non conformità frequente.
+      Azione pratica:
+      - verifica schema, posizionamento, cablaggio, logiche centrale
+      - test funzionali reali (non solo LED acceso)
     refs: ["EN 12978", "EN 12453"]
 
-  - title: "Bordo sensibile assente: attenzione allo schiacciamento"
+  - title: "Bordo sensibile assente: attenzione a schiacciamento/intrappolamento"
     when:
       all:
         - {fact: automation, op: "==", value: true}
         - {fact: safety_edge, op: "==", value: false}
-        - {fact: gate_type, op: "in", value: ["Cancello scorrevole", "Cancello a battente"]}
+      any:
+        - {fact: family, op: "==", value: "cancello"}
+        - {fact: family, op: "==", value: "porta"}
     body: |
       Se manca il bordo sensibile dove serve, il rischio tipico è lo schiacciamento.
-      Non vuol dire che “serve sempre”, ma va ragionato sui punti pericolosi reali:
+      Non è “sempre obbligatorio”, ma va ragionato sui punti pericolosi reali:
       - zona di chiusura
-      - zone di cesoiamento / intrappolamento
-      Azione: mappare i punti di rischio e scegliere protezioni adeguate (bordi, distanze, ripari, logiche).
+      - zone di intrappolamento/cesoiamento
+      Azione: mappare i punti rischio e scegliere protezioni adeguate (bordi, distanze, ripari, logiche).
     refs: ["EN 12453", "EN 12978"]
 
-  - title: "Limitazione forze non affidabile: da testare (e spesso aggiornare)"
+  - title: "Comando uomo presente: può aiutare, ma non è una bacchetta magica"
     when:
       all:
         - {fact: automation, op: "==", value: true}
-        - {fact: force_limitation, op: "==", value: false}
+        - {fact: hold_to_run, op: "==", value: true}
     body: |
-      Se non sei sicuro della limitazione forze (o non è stata mai testata), evita di “fidarti a sensazione”.
-      Azione: verifica impostazioni, componenti, e fai prove coerenti con metodi di misura.
-      Spesso un upgrade (encoder, centrale adeguata, dispositivi) risolve più di mille discussioni.
-    refs: ["EN 12445", "EN 12453"]
+      Il comando a uomo presente è una misura “di controllo” utile in certe situazioni,
+      ma non sostituisce automaticamente dispositivi e verifiche.
+      Usalo come possibile mitigazione temporanea, mentre sistemi protezioni e documentazione.
+    refs: ["EN 12453"]
 
-  - title: "Caso 'manuale': qui la storia cambia"
+  - title: "Segnalazioni mancanti: miglioramento facile (e spesso richiesto)"
+    when:
+      all:
+        - {fact: automation, op: "==", value: true}
+        - {fact: warnings_ok, op: "==", value: false}
+    body: |
+      Lampeggiante/cartelli/avvisi: non risolvono i rischi “meccanici”, ma migliorano la sicurezza percepita e reale.
+      Azione: verifica che le segnalazioni siano presenti, visibili e funzionanti.
+    refs: ["EN 12453"]
+
+  - title: "Caso manuale: qui la storia cambia"
     when:
       clause: {fact: automation, op: "==", value: false}
     body: |
-      Se è manuale, la parte 'automazione' (forze, fotocellule ecc.) non si applica allo stesso modo.
-      Restano però temi di sicurezza meccanica e uso corretto. Questo MVP è pensato soprattutto per impianti motorizzati.
+      Se è manuale, la parte automazione (fotocellule/forze/logiche) non si applica allo stesso modo.
+      Restano temi di sicurezza meccanica e uso corretto. Questo wizard è pensato soprattutto per impianti motorizzati.
     refs: []
