@@ -1,0 +1,5355 @@
+meta:
+  project: NormeCancelli
+  type: reference_library
+  version: '1.0'
+  generated_at: '2026-03-06 05:50:58'
+  notes: Riferimenti (clausole/appendici) estratti dagli indici dei documenti forniti. Campi 'note' lasciati vuoti per inserire
+    note operative personalizzate.
+items:
+- id: EN12453_1
+  norm: UNI EN 12453:2022
+  clause: '1'
+  title: INTRODUZIONE
+  keywords:
+  - introduzione
+  note: ''
+- id: EN12453_4
+  norm: UNI EN 12453:2022
+  clause: '4'
+  title: ELENCO DEI PERICOLI SIGNIFICATIVI
+  keywords:
+  - elenco
+  - pericoli
+  - significativi
+  note: ''
+- id: EN12453_4_1
+  norm: UNI EN 12453:2022
+  clause: '4.1'
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_5
+  norm: UNI EN 12453:2022
+  clause: '5'
+  title: 4.2 Pericoli causati da schiacciamento, cesoiamento e convogliamento
+  keywords:
+  - pericoli
+  - causati
+  - schiacciamento
+  - cesoiamento
+  - convogliamento
+  note: ''
+- id: EN12453_6
+  norm: UNI EN 12453:2022
+  clause: '6'
+  title: 4.2.1 Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_6
+  norm: UNI EN 12453:2022
+  clause: '6'
+  title: 4.2.2 Pericoli causati quando le persone possono essere trasportate con la porta
+  keywords:
+  - pericoli
+  - causati
+  - persone
+  - possono
+  - essere
+  - trasportate
+  - porta
+  note: ''
+- id: EN12453_6
+  norm: UNI EN 12453:2022
+  clause: '6'
+  title: 4.2.3 Pericoli causati da impatto
+  keywords:
+  - pericoli
+  - causati
+  - impatto
+  note: ''
+- id: EN12453_6
+  norm: UNI EN 12453:2022
+  clause: '6'
+  title: 4.3 Pericoli causati dalla sorgente di energia e dai comandi motorizzati
+  keywords:
+  - pericoli
+  - causati
+  - dalla
+  - sorgente
+  - energia
+  - dai
+  - comandi
+  - motorizzati
+  note: ''
+- id: EN12453_7
+  norm: UNI EN 12453:2022
+  clause: '7'
+  title: 4.4 Azionamento manuale
+  keywords:
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12453_7
+  norm: UNI EN 12453:2022
+  clause: '7'
+  title: 4.5 Altri pericoli
+  keywords:
+  - altri
+  - pericoli
+  note: ''
+- id: EN12453_7
+  norm: UNI EN 12453:2022
+  clause: '7'
+  title: 4.5.1 Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_7
+  norm: UNI EN 12453:2022
+  clause: '7'
+  title: 4.5.2 Pericoli causati da portoncini
+  keywords:
+  - pericoli
+  - causati
+  - portoncini
+  note: ''
+- id: EN12453_7
+  norm: UNI EN 12453:2022
+  clause: '7'
+  title: 4.5.3 Pericoli causati da imprigionamento
+  keywords:
+  - pericoli
+  - causati
+  - imprigionamento
+  note: ''
+- id: EN12453_7
+  norm: UNI EN 12453:2022
+  clause: '7'
+  title: 4.5.4 Pericoli causati da intrappolamento
+  keywords:
+  - pericoli
+  - causati
+  - intrappolamento
+  note: ''
+- id: EN12453_7
+  norm: UNI EN 12453:2022
+  clause: '7'
+  title: 4.5.5 Pericoli causati dalla caduta o dall'espulsione di parti o da movimento incontrollato
+  keywords:
+  - pericoli
+  - causati
+  - dalla
+  - caduta
+  - dall
+  - espulsione
+  - parti
+  - movimento
+  - incontrollato
+  note: ''
+- id: EN12453_7
+  norm: UNI EN 12453:2022
+  clause: '7'
+  title: 4.5.6 Pericoli causati da dispositivi di bloccaggio
+  keywords:
+  - pericoli
+  - causati
+  - dispositivi
+  - bloccaggio
+  note: ''
+- id: EN12453_7
+  norm: UNI EN 12453:2022
+  clause: '7'
+  title: 4.5.7 Pericoli causati da perdita di stabilità
+  keywords:
+  - pericoli
+  - causati
+  - perdita
+  - stabilità
+  note: ''
+- id: EN12453_8
+  norm: UNI EN 12453:2022
+  clause: '8'
+  title: 4.5.8 Pericoli causati da materiale vetrato
+  keywords:
+  - pericoli
+  - causati
+  - materiale
+  - vetrato
+  note: ''
+- id: EN12453_8
+  norm: UNI EN 12453:2022
+  clause: '8'
+  title: 4.5.9 Pericoli causati dalla modifica delle impostazioni
+  keywords:
+  - pericoli
+  - causati
+  - dalla
+  - modifica
+  - impostazioni
+  note: ''
+- id: EN12453_8
+  norm: UNI EN 12453:2022
+  clause: '8'
+  title: 5 REQUISITI DI SICUREZZA E/O MISURE PROTETTIVE
+  keywords:
+  - requisiti
+  - sicurezza
+  - misure
+  - protettive
+  note: ''
+- id: EN12453_5_1
+  norm: UNI EN 12453:2022
+  clause: '5.1'
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_8
+  norm: UNI EN 12453:2022
+  clause: '8'
+  title: 5.1.1 Requisiti generali
+  keywords:
+  - requisiti
+  - generali
+  note: ''
+- id: EN12453_8
+  norm: UNI EN 12453:2022
+  clause: '8'
+  title: 5.1.2 Funzione di sicurezza svolta dal sistema di comando
+  keywords:
+  - funzione
+  - sicurezza
+  - svolta
+  - dal
+  - sistema
+  - comando
+  note: ''
+- id: EN12453_8
+  norm: UNI EN 12453:2022
+  clause: '8'
+  title: 5.1.3 Livello minimo di protezione sul bordo primario di chiusura
+  keywords:
+  - livello
+  - minimo
+  - protezione
+  - sul
+  - bordo
+  - primario
+  - chiusura
+  note: ''
+- id: EN12453_9
+  norm: UNI EN 12453:2022
+  clause: '9'
+  title: prospetto 1 Livelli minimi di protezione del bordo primario
+  keywords:
+  - prospetto
+  - livelli
+  - minimi
+  - protezione
+  - bordo
+  - primario
+  note: ''
+- id: EN12453_10
+  norm: UNI EN 12453:2022
+  clause: '10'
+  title: 5.2 Schiacciamento, cesoiamento e convogliamento
+  keywords:
+  - schiacciamento
+  - cesoiamento
+  - convogliamento
+  note: ''
+- id: EN12453_10
+  norm: UNI EN 12453:2022
+  clause: '10'
+  title: 5.2.1 Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_10
+  norm: UNI EN 12453:2022
+  clause: '10'
+  title: figura 1 Distanza a tra il bordo dell’anta di porta e il piano attivo del dispositivo supplementare
+  keywords:
+  - figura
+  - distanza
+  - tra
+  - bordo
+  - dell
+  - anta
+  - porta
+  - piano
+  - attivo
+  - dispositivo
+  note: ''
+- id: EN12453_13
+  norm: UNI EN 12453:2022
+  clause: '13'
+  title: 5.2.2 Salvaguardia contro i pericoli causati quando le persone possono essere trasportate
+  keywords:
+  - salvaguardia
+  - contro
+  - pericoli
+  - causati
+  - persone
+  - possono
+  - essere
+  - trasportate
+  note: ''
+- id: EN12453_14
+  norm: UNI EN 12453:2022
+  clause: '14'
+  title: 5.2.3 Salvaguardia dai pericoli di impatto
+  keywords:
+  - salvaguardia
+  - dai
+  - pericoli
+  - impatto
+  note: ''
+- id: EN12453_14
+  norm: UNI EN 12453:2022
+  clause: '14'
+  title: 5.3 Sorgente di energia e comandi motorizzati
+  keywords:
+  - sorgente
+  - energia
+  - comandi
+  - motorizzati
+  note: ''
+- id: EN12453_14
+  norm: UNI EN 12453:2022
+  clause: '14'
+  title: 5.3.1 Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_14
+  norm: UNI EN 12453:2022
+  clause: '14'
+  title: 5.3.2 Unità di motorizzazione elettrica
+  keywords:
+  - unità
+  - motorizzazione
+  - elettrica
+  note: ''
+- id: EN12453_14
+  norm: UNI EN 12453:2022
+  clause: '14'
+  title: 5.3.3 Unità di motorizzazione idraulica
+  keywords:
+  - unità
+  - motorizzazione
+  - idraulica
+  note: ''
+- id: EN12453_17
+  norm: UNI EN 12453:2022
+  clause: '17'
+  title: 5.3.4 Unità di motorizzazione pneumatica
+  keywords:
+  - unità
+  - motorizzazione
+  - pneumatica
+  note: ''
+- id: EN12453_17
+  norm: UNI EN 12453:2022
+  clause: '17'
+  title: 5.3.5 Riavvio dopo un'interruzione non intenzionale
+  keywords:
+  - riavvio
+  - dopo
+  - interruzione
+  - non
+  - intenzionale
+  note: ''
+- id: EN12453_18
+  norm: UNI EN 12453:2022
+  clause: '18'
+  title: 5.3.6 Interruzione dell'alimentazione
+  keywords:
+  - interruzione
+  - dell
+  - alimentazione
+  note: ''
+- id: EN12453_18
+  norm: UNI EN 12453:2022
+  clause: '18'
+  title: 5.4 Azionamento manuale
+  keywords:
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12453_18
+  norm: UNI EN 12453:2022
+  clause: '18'
+  title: 5.4.1 Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_18
+  norm: UNI EN 12453:2022
+  clause: '18'
+  title: 5.4.2 Azionamento manuale mediante movimento diretto dell'anta della porta
+  keywords:
+  - azionamento
+  - manuale
+  - mediante
+  - movimento
+  - diretto
+  - dell
+  - anta
+  - porta
+  note: ''
+- id: EN12453_18
+  norm: UNI EN 12453:2022
+  clause: '18'
+  title: 5.4.3 Azionamento manuale applicato direttamente all’unità di motorizzazione
+  keywords:
+  - azionamento
+  - manuale
+  - applicato
+  - direttamente
+  - unità
+  - motorizzazione
+  note: ''
+- id: EN12453_18
+  norm: UNI EN 12453:2022
+  clause: '18'
+  title: 5.4.4 Guasto di bilanciamento nell’azionamento manuale
+  keywords:
+  - guasto
+  - bilanciamento
+  - nell
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12453_18
+  norm: UNI EN 12453:2022
+  clause: '18'
+  title: 5.4.5 Forza fisica umana per l'azionamento manuale dell'anta di porta
+  keywords:
+  - forza
+  - fisica
+  - umana
+  - azionamento
+  - manuale
+  - dell
+  - anta
+  - porta
+  note: ''
+- id: EN12453_5_5
+  norm: UNI EN 12453:2022
+  clause: '5.5'
+  title: Altri pericoli
+  keywords:
+  - altri
+  - pericoli
+  note: ''
+- id: EN12453_19
+  norm: UNI EN 12453:2022
+  clause: '19'
+  title: 5.5.1 Portoncini
+  keywords:
+  - portoncini
+  note: ''
+- id: EN12453_19
+  norm: UNI EN 12453:2022
+  clause: '19'
+  title: 5.5.2 Imprigionamento
+  keywords:
+  - imprigionamento
+  note: ''
+- id: EN12453_19
+  norm: UNI EN 12453:2022
+  clause: '19'
+  title: 5.5.3 Intrappolamento
+  keywords:
+  - intrappolamento
+  note: ''
+- id: EN12453_19
+  norm: UNI EN 12453:2022
+  clause: '19'
+  title: 5.5.4 Parti cadute o espulse o movimento incontrollato
+  keywords:
+  - parti
+  - cadute
+  - espulse
+  - movimento
+  - incontrollato
+  note: ''
+- id: EN12453_19
+  norm: UNI EN 12453:2022
+  clause: '19'
+  title: 5.5.5 Dispositivi di blocco
+  keywords:
+  - dispositivi
+  - blocco
+  note: ''
+- id: EN12453_20
+  norm: UNI EN 12453:2022
+  clause: '20'
+  title: 5.5.6 Perdita di stabilità
+  keywords:
+  - perdita
+  - stabilità
+  note: ''
+- id: EN12453_20
+  norm: UNI EN 12453:2022
+  clause: '20'
+  title: 5.5.7 Materiali per vetrate
+  keywords:
+  - materiali
+  - vetrate
+  note: ''
+- id: EN12453_20
+  norm: UNI EN 12453:2022
+  clause: '20'
+  title: 5.5.8 Modifica dell’impostazione
+  keywords:
+  - modifica
+  - dell
+  - impostazione
+  note: ''
+- id: EN12453_20
+  norm: UNI EN 12453:2022
+  clause: '20'
+  title: 6 VERIFICA DEI REQUISITI DI SICUREZZA E/O DELLE MISURE
+  keywords:
+  - verifica
+  - requisiti
+  - sicurezza
+  - misure
+  note: ''
+- id: EN12453_6_1
+  norm: UNI EN 12453:2022
+  clause: '6.1'
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_21
+  norm: UNI EN 12453:2022
+  clause: '21'
+  title: 6.2 Punti di schiacciamento, cesoiamento e convogliamento
+  keywords:
+  - punti
+  - schiacciamento
+  - cesoiamento
+  - convogliamento
+  note: ''
+- id: EN12453_21
+  norm: UNI EN 12453:2022
+  clause: '21'
+  title: 6.2.1 Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_21
+  norm: UNI EN 12453:2022
+  clause: '21'
+  title: 6.2.2 Pericoli causati quando le persone possono essere trasportate con la porta
+  keywords:
+  - pericoli
+  - causati
+  - persone
+  - possono
+  - essere
+  - trasportate
+  - porta
+  note: ''
+- id: EN12453_22
+  norm: UNI EN 12453:2022
+  clause: '22'
+  title: 6.2.3 Pericolo di impatto
+  keywords:
+  - pericolo
+  - impatto
+  note: ''
+- id: EN12453_23
+  norm: UNI EN 12453:2022
+  clause: '23'
+  title: 6.3 Sorgente di energia
+  keywords:
+  - sorgente
+  - energia
+  note: ''
+- id: EN12453_23
+  norm: UNI EN 12453:2022
+  clause: '23'
+  title: 6.3.1 Unità di motorizzazione elettrica
+  keywords:
+  - unità
+  - motorizzazione
+  - elettrica
+  note: ''
+- id: EN12453_23
+  norm: UNI EN 12453:2022
+  clause: '23'
+  title: 6.3.2 Unità di motorizzazione idraulica
+  keywords:
+  - unità
+  - motorizzazione
+  - idraulica
+  note: ''
+- id: EN12453_23
+  norm: UNI EN 12453:2022
+  clause: '23'
+  title: 6.3.3 Unità di motorizzazione pneumatica
+  keywords:
+  - unità
+  - motorizzazione
+  - pneumatica
+  note: ''
+- id: EN12453_23
+  norm: UNI EN 12453:2022
+  clause: '23'
+  title: 6.3.4 Riavvio dopo un'interruzione involontaria
+  keywords:
+  - riavvio
+  - dopo
+  - interruzione
+  - involontaria
+  note: ''
+- id: EN12453_23
+  norm: UNI EN 12453:2022
+  clause: '23'
+  title: 6.3.5 Disconnessione dell'alimentazione
+  keywords:
+  - disconnessione
+  - dell
+  - alimentazione
+  note: ''
+- id: EN12453_23
+  norm: UNI EN 12453:2022
+  clause: '23'
+  title: 6.4 Azionamento manuale
+  keywords:
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12453_24
+  norm: UNI EN 12453:2022
+  clause: '24'
+  title: 6.4.1 Azionamento manuale mediante movimento diretto dell'anta della porta
+  keywords:
+  - azionamento
+  - manuale
+  - mediante
+  - movimento
+  - diretto
+  - dell
+  - anta
+  - porta
+  note: ''
+- id: EN12453_24
+  norm: UNI EN 12453:2022
+  clause: '24'
+  title: 6.4.2 Azionamento manuale applicato direttamente all’unità di motorizzazione
+  keywords:
+  - azionamento
+  - manuale
+  - applicato
+  - direttamente
+  - unità
+  - motorizzazione
+  note: ''
+- id: EN12453_24
+  norm: UNI EN 12453:2022
+  clause: '24'
+  title: 6.4.3 Guasto di bilanciamento nell’azionamento manuale
+  keywords:
+  - guasto
+  - bilanciamento
+  - nell
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12453_24
+  norm: UNI EN 12453:2022
+  clause: '24'
+  title: 6.4.4 Forza fisica umana per l'azionamento manuale dell'anta di porta
+  keywords:
+  - forza
+  - fisica
+  - umana
+  - azionamento
+  - manuale
+  - dell
+  - anta
+  - porta
+  note: ''
+- id: EN12453_24
+  norm: UNI EN 12453:2022
+  clause: '24'
+  title: 6.5 Altri pericoli
+  keywords:
+  - altri
+  - pericoli
+  note: ''
+- id: EN12453_24
+  norm: UNI EN 12453:2022
+  clause: '24'
+  title: 6.5.1 Portoncini
+  keywords:
+  - portoncini
+  note: ''
+- id: EN12453_24
+  norm: UNI EN 12453:2022
+  clause: '24'
+  title: 6.5.2 Imprigionamento
+  keywords:
+  - imprigionamento
+  note: ''
+- id: EN12453_24
+  norm: UNI EN 12453:2022
+  clause: '24'
+  title: 6.5.3 Intrappolamento
+  keywords:
+  - intrappolamento
+  note: ''
+- id: EN12453_25
+  norm: UNI EN 12453:2022
+  clause: '25'
+  title: 6.5.4 Parti cadute o espulse o movimento incontrollato
+  keywords:
+  - parti
+  - cadute
+  - espulse
+  - movimento
+  - incontrollato
+  note: ''
+- id: EN12453_25
+  norm: UNI EN 12453:2022
+  clause: '25'
+  title: 6.5.5 Dispositivi di blocco
+  keywords:
+  - dispositivi
+  - blocco
+  note: ''
+- id: EN12453_25
+  norm: UNI EN 12453:2022
+  clause: '25'
+  title: 6.5.6 Perdita di stabilità
+  keywords:
+  - perdita
+  - stabilità
+  note: ''
+- id: EN12453_26
+  norm: UNI EN 12453:2022
+  clause: '26'
+  title: 6.5.7 Materiali per vetrate
+  keywords:
+  - materiali
+  - vetrate
+  note: ''
+- id: EN12453_26
+  norm: UNI EN 12453:2022
+  clause: '26'
+  title: 6.5.8 Modifica delle impostazioni
+  keywords:
+  - modifica
+  - impostazioni
+  note: ''
+- id: EN12453_26
+  norm: UNI EN 12453:2022
+  clause: '26'
+  title: 7 INFORMAZIONI PER L’UTILIZZO
+  keywords:
+  - informazioni
+  - utilizzo
+  note: ''
+- id: EN12453_7_1
+  norm: UNI EN 12453:2022
+  clause: '7.1'
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_26
+  norm: UNI EN 12453:2022
+  clause: '26'
+  title: 7.2 Marcatura
+  keywords:
+  - marcatura
+  note: ''
+- id: EN12453_28
+  norm: UNI EN 12453:2022
+  clause: '28'
+  title: APPENDICE A LIMITAZIONE DELLE FORZE
+  keywords:
+  - appendice
+  - limitazione
+  - forze
+  note: ''
+- id: EN12453_29
+  norm: UNI EN 12453:2022
+  clause: '29'
+  title: figura A.1 Forza in funzione del tempo
+  keywords:
+  - figura
+  - forza
+  - funzione
+  - tempo
+  note: ''
+- id: EN12453_29
+  norm: UNI EN 12453:2022
+  clause: '29'
+  title: A.2 Forze ammissibili
+  keywords:
+  - forze
+  - ammissibili
+  note: ''
+- id: EN12453_29
+  norm: UNI EN 12453:2022
+  clause: '29'
+  title: prospetto A.1 Forze d’urto ammissibili
+  keywords:
+  - prospetto
+  - forze
+  - urto
+  - ammissibili
+  note: ''
+- id: EN12453_30
+  norm: UNI EN 12453:2022
+  clause: '30'
+  title: APPENDICE B ESEMPI DI PROTEZIONE MECCANICA E DISTANZE DI SICUREZZA
+  keywords:
+  - appendice
+  - esempi
+  - protezione
+  - meccanica
+  - distanze
+  - sicurezza
+  note: ''
+- id: EN12453_31
+  norm: UNI EN 12453:2022
+  clause: '31'
+  title: figura B.1 Riparo in una porta scorrevole
+  keywords:
+  - figura
+  - riparo
+  - porta
+  - scorrevole
+  note: ''
+- id: EN12453_31
+  norm: UNI EN 12453:2022
+  clause: '31'
+  title: figura B.2 Protezione in una porta a battente
+  keywords:
+  - figura
+  - protezione
+  - porta
+  - battente
+  note: ''
+- id: EN12453_31
+  norm: UNI EN 12453:2022
+  clause: '31'
+  title: figura B.3 Profilo di protezione
+  keywords:
+  - figura
+  - profilo
+  - protezione
+  note: ''
+- id: EN12453_31
+  norm: UNI EN 12453:2022
+  clause: '31'
+  title: B.2 Esempi di tolleranze di sicurezza e distanze di sicurezza appropriate
+  keywords:
+  - esempi
+  - tolleranze
+  - sicurezza
+  - distanze
+  - appropriate
+  note: ''
+- id: EN12453_32
+  norm: UNI EN 12453:2022
+  clause: '32'
+  title: prospetto B.1 Distanze di sicurezza in relazione alle aperture nelle recinzioni
+  keywords:
+  - prospetto
+  - distanze
+  - sicurezza
+  - relazione
+  - aperture
+  - nelle
+  - recinzioni
+  note: ''
+- id: EN12453_32
+  norm: UNI EN 12453:2022
+  clause: '32'
+  title: figura B.5 Tolleranza di sicurezza nelle porte a battente
+  keywords:
+  - figura
+  - tolleranza
+  - sicurezza
+  - nelle
+  - porte
+  - battente
+  note: ''
+- id: EN12453_33
+  norm: UNI EN 12453:2022
+  clause: '33'
+  title: figura B.6 Distanza di sicurezza nelle porte basculanti
+  keywords:
+  - figura
+  - distanza
+  - sicurezza
+  - nelle
+  - porte
+  - basculanti
+  note: ''
+- id: EN12453_33
+  norm: UNI EN 12453:2022
+  clause: '33'
+  title: APPENDICE C METODO DI MISURAZIONE DELLA FORZA
+  keywords:
+  - appendice
+  - metodo
+  - misurazione
+  - forza
+  note: ''
+- id: EN12453_34
+  norm: UNI EN 12453:2022
+  clause: '34'
+  title: C.2 Apparecchiatura di misurazione
+  keywords:
+  - apparecchiatura
+  - misurazione
+  note: ''
+- id: EN12453_34
+  norm: UNI EN 12453:2022
+  clause: '34'
+  title: C.3 Punti di misura
+  keywords:
+  - punti
+  - misura
+  note: ''
+- id: EN12453_34
+  norm: UNI EN 12453:2022
+  clause: '34'
+  title: figura C.1 Punti di misurazione sull'anta di una porta scorrevole
+  keywords:
+  - figura
+  - punti
+  - misurazione
+  - sull
+  - anta
+  - porta
+  - scorrevole
+  note: ''
+- id: EN12453_36
+  norm: UNI EN 12453:2022
+  clause: '36'
+  title: figura C.2 Vani di apertura tra il bordo primario di chiusura di una porta scorrevole e il bordo
+  keywords:
+  - figura
+  - vani
+  - apertura
+  - tra
+  - bordo
+  - primario
+  - chiusura
+  - porta
+  - scorrevole
+  note: ''
+- id: EN12453_37
+  norm: UNI EN 12453:2022
+  clause: '37'
+  title: figura C.3 Punti di misurazione sull'anta di una porta a battente
+  keywords:
+  - figura
+  - punti
+  - misurazione
+  - sull
+  - anta
+  - porta
+  - battente
+  note: ''
+- id: EN12453_38
+  norm: UNI EN 12453:2022
+  clause: '38'
+  title: figura C.4 Vani tra l'anta di una porta a battente e il bordo opposto di chiusura
+  keywords:
+  - figura
+  - vani
+  - tra
+  - anta
+  - porta
+  - battente
+  - bordo
+  - opposto
+  - chiusura
+  note: ''
+- id: EN12453_38
+  norm: UNI EN 12453:2022
+  clause: '38'
+  title: figura C.5 Punti di misura sull'anta di una porta a battente e una larghezza di apertura tra l'anta
+  keywords:
+  - figura
+  - punti
+  - misura
+  - sull
+  - anta
+  - porta
+  - battente
+  - larghezza
+  - apertura
+  - tra
+  note: ''
+- id: EN12453_39
+  norm: UNI EN 12453:2022
+  clause: '39'
+  title: figura C.6 Misurazione delle forze su una porta pieghevole
+  keywords:
+  - figura
+  - misurazione
+  - forze
+  - porta
+  - pieghevole
+  note: ''
+- id: EN12453_40
+  norm: UNI EN 12453:2022
+  clause: '40'
+  title: figura C.7 Punti di misura sull'anta di una porta a sollevamento
+  keywords:
+  - figura
+  - punti
+  - misura
+  - sull
+  - anta
+  - porta
+  - sollevamento
+  note: ''
+- id: EN12453_40
+  norm: UNI EN 12453:2022
+  clause: '40'
+  title: figura C.8 Interstizi di apertura tra il bordo primario di chiusura di una porta a sollevamento
+  keywords:
+  - figura
+  - interstizi
+  - apertura
+  - tra
+  - bordo
+  - primario
+  - chiusura
+  - porta
+  - sollevamento
+  note: ''
+- id: EN12453_41
+  norm: UNI EN 12453:2022
+  clause: '41'
+  title: figura C.9 Punto di misura sul bordo secondario di una porta basculante
+  keywords:
+  - figura
+  - punto
+  - misura
+  - sul
+  - bordo
+  - secondario
+  - porta
+  - basculante
+  note: ''
+- id: EN12453_41
+  norm: UNI EN 12453:2022
+  clause: '41'
+  title: figura C.10 Punti di misura sulle barriere
+  keywords:
+  - figura
+  - punti
+  - misura
+  - sulle
+  - barriere
+  note: ''
+- id: EN12453_42
+  norm: UNI EN 12453:2022
+  clause: '42'
+  title: APPENDICE D METODO DI PROVA PER IL RILEVAMENTO DELLA PRESENZA
+  keywords:
+  - appendice
+  - metodo
+  - prova
+  - rilevamento
+  - presenza
+  note: ''
+- id: EN12453_43
+  norm: UNI EN 12453:2022
+  clause: '43'
+  title: D.2 Corpi di prova
+  keywords:
+  - corpi
+  - prova
+  note: ''
+- id: EN12453_43
+  norm: UNI EN 12453:2022
+  clause: '43'
+  title: figura D.1 Corpi di prova
+  keywords:
+  - figura
+  - corpi
+  - prova
+  note: ''
+- id: EN12453_43
+  norm: UNI EN 12453:2022
+  clause: '43'
+  title: D.3 Prova di dispositivo supplementare da utilizzare con la limitazione della forza
+  keywords:
+  - prova
+  - dispositivo
+  - supplementare
+  - utilizzare
+  - limitazione
+  - forza
+  note: ''
+- id: EN12453_44
+  norm: UNI EN 12453:2022
+  clause: '44'
+  title: figura D.2 Prova di rilevamento della presenza attivo sul lato con il corpo di prova A
+  keywords:
+  - figura
+  - prova
+  - rilevamento
+  - presenza
+  - attivo
+  - sul
+  - lato
+  - corpo
+  note: ''
+- id: EN12453_44
+  norm: UNI EN 12453:2022
+  clause: '44'
+  title: figura D.3 Prova di un rilevamento della presenza con il corpo di prova A su una barriera
+  keywords:
+  - figura
+  - prova
+  - rilevamento
+  - presenza
+  - corpo
+  - barriera
+  note: ''
+- id: EN12453_45
+  norm: UNI EN 12453:2022
+  clause: '45'
+  title: figura D.4 Prova di rilevamento della presenza attivo su entrambi i lati con il corpo di prova A
+  keywords:
+  - figura
+  - prova
+  - rilevamento
+  - presenza
+  - attivo
+  - entrambi
+  - lati
+  - corpo
+  note: ''
+- id: EN12453_45
+  norm: UNI EN 12453:2022
+  clause: '45'
+  title: figura D.5 Prova di rilevamento della presenza attivo su entrambi i lati su barriere
+  keywords:
+  - figura
+  - prova
+  - rilevamento
+  - presenza
+  - attivo
+  - entrambi
+  - lati
+  - barriere
+  note: ''
+- id: EN12453_46
+  norm: UNI EN 12453:2022
+  clause: '46'
+  title: figura D.6 Prova di rilevamento della presenza attivo su entrambi i lati di porte pieghevoli
+  keywords:
+  - figura
+  - prova
+  - rilevamento
+  - presenza
+  - attivo
+  - entrambi
+  - lati
+  - porte
+  - pieghevoli
+  note: ''
+- id: EN12453_46
+  norm: UNI EN 12453:2022
+  clause: '46'
+  title: figura D.7 Prova di rilevamento della presenza attiva su entrambi i lati di porte a battente
+  keywords:
+  - figura
+  - prova
+  - rilevamento
+  - presenza
+  - attiva
+  - entrambi
+  - lati
+  - porte
+  - battente
+  note: ''
+- id: EN12453_47
+  norm: UNI EN 12453:2022
+  clause: '47'
+  title: D.4 Prova di un sistema di rilevamento della presenza da utilizzare senza
+  keywords:
+  - prova
+  - sistema
+  - rilevamento
+  - presenza
+  - utilizzare
+  - senza
+  note: ''
+- id: EN12453_47
+  norm: UNI EN 12453:2022
+  clause: '47'
+  title: figura D.8 Prova di rilevamento della presenza attiva nell'apertura della porta
+  keywords:
+  - figura
+  - prova
+  - rilevamento
+  - presenza
+  - attiva
+  - nell
+  - apertura
+  - porta
+  note: ''
+- id: EN12453_48
+  norm: UNI EN 12453:2022
+  clause: '48'
+  title: figura D.9 Prova del sistema di rilevamento della presenza che prevede una distanza di sicurezza
+  keywords:
+  - figura
+  - prova
+  - sistema
+  - rilevamento
+  - presenza
+  - prevede
+  - distanza
+  - sicurezza
+  note: ''
+- id: EN12453_49
+  norm: UNI EN 12453:2022
+  clause: '49'
+  title: figura D.10 Prova del sistema di rilevamento della presenza che prevede una distanza di sicurezza
+  keywords:
+  - figura
+  - prova
+  - sistema
+  - rilevamento
+  - presenza
+  - prevede
+  - distanza
+  - sicurezza
+  note: ''
+- id: EN12453_50
+  norm: UNI EN 12453:2022
+  clause: '50'
+  title: figura D.11 Prova di due dispositivi di rilevamento della presenza su porte a battente
+  keywords:
+  - figura
+  - prova
+  - due
+  - dispositivi
+  - rilevamento
+  - presenza
+  - porte
+  - battente
+  note: ''
+- id: EN12453_50
+  norm: UNI EN 12453:2022
+  clause: '50'
+  title: APPENDICE E SALVAGUARDIA DALLA CADUTA MEDIANTE ALTRE CARATTERISTICHE
+  keywords:
+  - appendice
+  - salvaguardia
+  - dalla
+  - caduta
+  - mediante
+  - altre
+  - caratteristiche
+  note: ''
+- id: EN12453_APP_F
+  norm: UNI EN 12453:2022
+  clause: Appendice F
+  title: RAPPORTO TRA I PUNTI RELATIVI AI PERICOLI, AI REQUISITI
+  keywords:
+  - rapporto
+  - tra
+  - punti
+  - relativi
+  - pericoli
+  - requisiti
+  note: ''
+- id: EN12453_52
+  norm: UNI EN 12453:2022
+  clause: '52'
+  title: APPENDICE G REGISTRO
+  keywords:
+  - appendice
+  - registro
+  note: ''
+- id: EN12453_55
+  norm: UNI EN 12453:2022
+  clause: '55'
+  title: BIBLIOGRAFIA
+  keywords:
+  - bibliografia
+  note: ''
+- id: EN12453_3
+  norm: UNI EN 12453:2022
+  clause: '3'
+  title: TERMINI E DEFINIZIONI
+  keywords:
+  - termini
+  - definizioni
+  note: ''
+- id: EN12453_3_1
+  norm: UNI EN 12453:2022
+  clause: '3.1'
+  title: 'porta di garage domestico: Porta utilizzata in un garage domestico destinato all’uso di un'
+  keywords:
+  - porta
+  - garage
+  - domestico
+  - utilizzata
+  - destinato
+  - uso
+  note: ''
+- id: EN12453_3_2
+  norm: UNI EN 12453:2022
+  clause: '3.2'
+  title: 'unità di motorizzazione: Meccanismo di azionamento, compresi i comandi, per muovere,'
+  keywords:
+  - unità
+  - motorizzazione
+  - meccanismo
+  - azionamento
+  - compresi
+  - comandi
+  - muovere
+  note: ''
+- id: EN12453_3_3
+  norm: UNI EN 12453:2022
+  clause: '3.3'
+  title: 'azionamento: Motore e altri componenti che controllano il movimento della parte motorizzata.'
+  keywords:
+  - azionamento
+  - motore
+  - altri
+  - componenti
+  - controllano
+  - movimento
+  - parte
+  - motorizzata
+  note: ''
+- id: EN12453_3_4
+  norm: UNI EN 12453:2022
+  clause: '3.4'
+  title: 'vano di apertura: Distanza tra il bordo primario di chiusura e il bordo opposto di chiusura.'
+  keywords:
+  - vano
+  - apertura
+  - distanza
+  - tra
+  - bordo
+  - primario
+  - chiusura
+  - opposto
+  note: ''
+- id: EN12453_3_5
+  norm: UNI EN 12453:2022
+  clause: '3.5'
+  title: 'porta ad azionamento non automatico: Porta che entra in funzione solo dopo l''attivazione'
+  keywords:
+  - porta
+  - azionamento
+  - non
+  - automatico
+  - entra
+  - funzione
+  - solo
+  - dopo
+  - attivazione
+  note: ''
+- id: EN12453_3_6
+  norm: UNI EN 12453:2022
+  clause: '3.6'
+  title: 'dispositivo di protezione sensibile alla pressione, PSPE: Gruppo ad attuazione'
+  keywords:
+  - dispositivo
+  - protezione
+  - sensibile
+  - alla
+  - pressione
+  - pspe
+  - gruppo
+  - attuazione
+  note: ''
+- id: EN12453_3_7
+  norm: UNI EN 12453:2022
+  clause: '3.7'
+  title: 'dispositivo di protezione elettrosensibile, ESPE: Gruppo ad attuazione non meccanica di'
+  keywords:
+  - dispositivo
+  - protezione
+  - elettrosensibile
+  - espe
+  - gruppo
+  - attuazione
+  - non
+  - meccanica
+  note: ''
+- id: EN12453_3_8
+  norm: UNI EN 12453:2022
+  clause: '3.8'
+  title: 'parte di un sistema di comando legata alla sicurezza, SRP/CS: Parte di un sistema di'
+  keywords:
+  - parte
+  - sistema
+  - comando
+  - legata
+  - alla
+  - sicurezza
+  - srp
+  note: ''
+- id: EN12453_3_9
+  norm: UNI EN 12453:2022
+  clause: '3.9'
+  title: 'azionamento reversibile: Azionamento che può essere azionato manualmente con o'
+  keywords:
+  - azionamento
+  - reversibile
+  - può
+  - essere
+  - azionato
+  - manualmente
+  note: ''
+- id: EN12453_4_2
+  norm: UNI EN 12453:2022
+  clause: '4.2'
+  title: Pericoli causati da schiacciamento, cesoiamento e convogliamento
+  keywords:
+  - pericoli
+  - causati
+  - schiacciamento
+  - cesoiamento
+  - convogliamento
+  note: ''
+- id: EN12453_4_2_1
+  norm: UNI EN 12453:2022
+  clause: 4.2.1
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_4_2_2
+  norm: UNI EN 12453:2022
+  clause: 4.2.2
+  title: Pericoli causati quando le persone possono essere trasportate con la porta
+  keywords:
+  - pericoli
+  - causati
+  - persone
+  - possono
+  - essere
+  - trasportate
+  - porta
+  note: ''
+- id: EN12453_4_2_3
+  norm: UNI EN 12453:2022
+  clause: 4.2.3
+  title: Pericoli causati da impatto
+  keywords:
+  - pericoli
+  - causati
+  - impatto
+  note: ''
+- id: EN12453_4_4
+  norm: UNI EN 12453:2022
+  clause: '4.4'
+  title: Azionamento manuale
+  keywords:
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12453_4_5
+  norm: UNI EN 12453:2022
+  clause: '4.5'
+  title: Altri pericoli
+  keywords:
+  - altri
+  - pericoli
+  note: ''
+- id: EN12453_4_5_1
+  norm: UNI EN 12453:2022
+  clause: 4.5.1
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_4_5_2
+  norm: UNI EN 12453:2022
+  clause: 4.5.2
+  title: Pericoli causati da portoncini
+  keywords:
+  - pericoli
+  - causati
+  - portoncini
+  note: ''
+- id: EN12453_4_5_3
+  norm: UNI EN 12453:2022
+  clause: 4.5.3
+  title: Pericoli causati da imprigionamento
+  keywords:
+  - pericoli
+  - causati
+  - imprigionamento
+  note: ''
+- id: EN12453_4_5_4
+  norm: UNI EN 12453:2022
+  clause: 4.5.4
+  title: Pericoli causati da intrappolamento
+  keywords:
+  - pericoli
+  - causati
+  - intrappolamento
+  note: ''
+- id: EN12453_4_5_5
+  norm: UNI EN 12453:2022
+  clause: 4.5.5
+  title: Pericoli causati dalla caduta o dall'espulsione di parti o da movimento incontrollato
+  keywords:
+  - pericoli
+  - causati
+  - dalla
+  - caduta
+  - dall
+  - espulsione
+  - parti
+  - movimento
+  - incontrollato
+  note: ''
+- id: EN12453_4_5_7
+  norm: UNI EN 12453:2022
+  clause: 4.5.7
+  title: 4.5.8
+  keywords: []
+  note: ''
+- id: EN12453_4_5_9
+  norm: UNI EN 12453:2022
+  clause: 4.5.9
+  title: Pericoli causati da perdita di stabilità
+  keywords:
+  - pericoli
+  - causati
+  - perdita
+  - stabilità
+  note: ''
+- id: EN12453_5
+  norm: UNI EN 12453:2022
+  clause: '5'
+  title: '5.1'
+  keywords: []
+  note: ''
+- id: EN12453_5_1_1
+  norm: UNI EN 12453:2022
+  clause: 5.1.1
+  title: 5.1.2
+  keywords: []
+  note: ''
+- id: EN12453_5_2
+  norm: UNI EN 12453:2022
+  clause: '5.2'
+  title: Schiacciamento, cesoiamento e convogliamento
+  keywords:
+  - schiacciamento
+  - cesoiamento
+  - convogliamento
+  note: ''
+- id: EN12453_5_2_1
+  norm: UNI EN 12453:2022
+  clause: 5.2.1
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_5_2_1_1
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.1
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_5_2_1_2
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.2
+  title: Interstizi per evitare schiacciamento, cesoiamento e convogliamento
+  keywords:
+  - interstizi
+  - evitare
+  - schiacciamento
+  - cesoiamento
+  - convogliamento
+  note: ''
+- id: EN12453_5_2_1_3
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.3
+  title: Ripari
+  keywords:
+  - ripari
+  note: ''
+- id: EN12453_5_2_1_4
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.4
+  title: 5.2.1.5
+  keywords: []
+  note: ''
+- id: EN12453_5_2_1_6
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.6
+  title: 5.2.1.6.1
+  keywords: []
+  note: ''
+- id: EN12453_5_2_1_6_2
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.6.2
+  title: Punti di schiacciamento
+  keywords:
+  - punti
+  - schiacciamento
+  note: ''
+- id: EN12453_5_2_1_6_3
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.6.3
+  title: Pericoli di cesoiamento
+  keywords:
+  - pericoli
+  - cesoiamento
+  note: ''
+- id: EN12453_5_2_1_6_4
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.6.4
+  title: Punti di convogliamento
+  keywords:
+  - punti
+  - convogliamento
+  note: ''
+- id: EN12453_5_2_1_7
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.7
+  title: 'Dispositivo di protezione elettrosensibile (ESPE):'
+  keywords:
+  - dispositivo
+  - protezione
+  - elettrosensibile
+  - espe
+  note: ''
+- id: EN12453_5_2_1_8
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.8
+  title: Dispositivo supplementare per ridurre la probabilità di contatto
+  keywords:
+  - dispositivo
+  - supplementare
+  - ridurre
+  - probabilità
+  - contatto
+  note: ''
+- id: EN12453_1
+  norm: UNI EN 12453:2022
+  clause: '1'
+  title: Piano in cui il dispositivo supplementare è attivo
+  keywords:
+  - piano
+  - cui
+  - dispositivo
+  - supplementare
+  - attivo
+  note: ''
+- id: EN12453_5_2_2
+  norm: UNI EN 12453:2022
+  clause: 5.2.2
+  title: 5.2.3
+  keywords: []
+  note: ''
+- id: EN12453_5_3
+  norm: UNI EN 12453:2022
+  clause: '5.3'
+  title: 5.3.1
+  keywords: []
+  note: ''
+- id: EN12453_5_3_2
+  norm: UNI EN 12453:2022
+  clause: 5.3.2
+  title: Nota
+  keywords:
+  - nota
+  note: ''
+- id: EN12453_5_3_3
+  norm: UNI EN 12453:2022
+  clause: 5.3.3
+  title: 5.3.4
+  keywords: []
+  note: ''
+- id: EN12453_5_3_5
+  norm: UNI EN 12453:2022
+  clause: 5.3.5
+  title: Riavvio dopo un'interruzione non intenzionale
+  keywords:
+  - riavvio
+  - dopo
+  - interruzione
+  - non
+  - intenzionale
+  note: ''
+- id: EN12453_5_3_6
+  norm: UNI EN 12453:2022
+  clause: 5.3.6
+  title: Interruzione dell'alimentazione
+  keywords:
+  - interruzione
+  - dell
+  - alimentazione
+  note: ''
+- id: EN12453_5_4
+  norm: UNI EN 12453:2022
+  clause: '5.4'
+  title: Azionamento manuale
+  keywords:
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12453_5_4_1
+  norm: UNI EN 12453:2022
+  clause: 5.4.1
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_5_4_2
+  norm: UNI EN 12453:2022
+  clause: 5.4.2
+  title: Azionamento manuale mediante movimento diretto dell'anta della porta
+  keywords:
+  - azionamento
+  - manuale
+  - mediante
+  - movimento
+  - diretto
+  - dell
+  - anta
+  - porta
+  note: ''
+- id: EN12453_5_4_3
+  norm: UNI EN 12453:2022
+  clause: 5.4.3
+  title: Azionamento manuale applicato direttamente all’unità di motorizzazione
+  keywords:
+  - azionamento
+  - manuale
+  - applicato
+  - direttamente
+  - unità
+  - motorizzazione
+  note: ''
+- id: EN12453_5_4_4
+  norm: UNI EN 12453:2022
+  clause: 5.4.4
+  title: Guasto di bilanciamento nell’azionamento manuale
+  keywords:
+  - guasto
+  - bilanciamento
+  - nell
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12453_5_4_5
+  norm: UNI EN 12453:2022
+  clause: 5.4.5
+  title: '5.5'
+  keywords: []
+  note: ''
+- id: EN12453_5_5_1
+  norm: UNI EN 12453:2022
+  clause: 5.5.1
+  title: 5.5.2
+  keywords: []
+  note: ''
+- id: EN12453_5_5_3
+  norm: UNI EN 12453:2022
+  clause: 5.5.3
+  title: 5.5.4
+  keywords: []
+  note: ''
+- id: EN12453_4_3_4
+  norm: UNI EN 12453:2022
+  clause: 4.3.4
+  title: della EN 12604:2017+A1:2020.
+  keywords:
+  - '12604'
+  - '2017'
+  - '2020'
+  note: ''
+- id: EN12453_5_5_5
+  norm: UNI EN 12453:2022
+  clause: 5.5.5
+  title: Dispositivi di blocco
+  keywords:
+  - dispositivi
+  - blocco
+  note: ''
+- id: EN12453_5_5_6
+  norm: UNI EN 12453:2022
+  clause: 5.5.6
+  title: Perdita di stabilità
+  keywords:
+  - perdita
+  - stabilità
+  note: ''
+- id: EN12453_5_5_7
+  norm: UNI EN 12453:2022
+  clause: 5.5.7
+  title: Materiali per vetrate
+  keywords:
+  - materiali
+  - vetrate
+  note: ''
+- id: EN12453_5_5_8
+  norm: UNI EN 12453:2022
+  clause: 5.5.8
+  title: Modifica dell’impostazione
+  keywords:
+  - modifica
+  - dell
+  - impostazione
+  note: ''
+- id: EN12453_6
+  norm: UNI EN 12453:2022
+  clause: '6'
+  title: '6.1'
+  keywords: []
+  note: ''
+- id: EN12453_6_2
+  norm: UNI EN 12453:2022
+  clause: '6.2'
+  title: 6.2.1
+  keywords: []
+  note: ''
+- id: EN12453_6_2_1_1
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.1
+  title: 6.2.1.2
+  keywords: []
+  note: ''
+- id: EN12453_6_2_1_3
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.3
+  title: 6.2.1.4
+  keywords: []
+  note: ''
+- id: EN12453_6_2_1_5
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.5
+  title: 10)
+  keywords: []
+  note: ''
+- id: EN12453_6_2_1_6
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.6
+  title: Limitazione delle forze
+  keywords:
+  - limitazione
+  - forze
+  note: ''
+- id: EN12453_6_2_1_6_1
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.6.1
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12453_6_2_1_6_2
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.6.2
+  title: Punto di schiacciamento
+  keywords:
+  - punto
+  - schiacciamento
+  note: ''
+- id: EN12453_6_2_1_6_3
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.6.3
+  title: Punto di cesoiamento
+  keywords:
+  - punto
+  - cesoiamento
+  note: ''
+- id: EN12453_6_2_1_7
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.7
+  title: Dispositivi di protezione elettrosensibili
+  keywords:
+  - dispositivi
+  - protezione
+  - elettrosensibili
+  note: ''
+- id: EN12453_6_2_1_8
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.8
+  title: Dispositivo supplementare per ridurre la probabilità di contatto
+  keywords:
+  - dispositivo
+  - supplementare
+  - ridurre
+  - probabilità
+  - contatto
+  note: ''
+- id: EN12453_6_2_2
+  norm: UNI EN 12453:2022
+  clause: 6.2.2
+  title: Pericoli causati quando le persone possono essere trasportate con la porta
+  keywords:
+  - pericoli
+  - causati
+  - persone
+  - possono
+  - essere
+  - trasportate
+  - porta
+  note: ''
+- id: EN12453_6_2_3
+  norm: UNI EN 12453:2022
+  clause: 6.2.3
+  title: '6.3'
+  keywords: []
+  note: ''
+- id: EN12453_6_3_1
+  norm: UNI EN 12453:2022
+  clause: 6.3.1
+  title: 6.3.2
+  keywords: []
+  note: ''
+- id: EN12453_6_3_3
+  norm: UNI EN 12453:2022
+  clause: 6.3.3
+  title: 6.3.4
+  keywords: []
+  note: ''
+- id: EN12453_6_3_5
+  norm: UNI EN 12453:2022
+  clause: 6.3.5
+  title: 'Inoltre per porte a movimento verticale:'
+  keywords:
+  - inoltre
+  - porte
+  - movimento
+  - verticale
+  note: ''
+- id: EN12453_6_4
+  norm: UNI EN 12453:2022
+  clause: '6.4'
+  title: Azionamento manuale
+  keywords:
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12453_6_4_1
+  norm: UNI EN 12453:2022
+  clause: 6.4.1
+  title: Azionamento manuale mediante movimento diretto dell'anta della porta
+  keywords:
+  - azionamento
+  - manuale
+  - mediante
+  - movimento
+  - diretto
+  - dell
+  - anta
+  - porta
+  note: ''
+- id: EN12453_6_4_2
+  norm: UNI EN 12453:2022
+  clause: 6.4.2
+  title: Azionamento manuale applicato direttamente all’unità di motorizzazione
+  keywords:
+  - azionamento
+  - manuale
+  - applicato
+  - direttamente
+  - unità
+  - motorizzazione
+  note: ''
+- id: EN12453_6_4_3
+  norm: UNI EN 12453:2022
+  clause: 6.4.3
+  title: Guasto di bilanciamento nell’azionamento manuale
+  keywords:
+  - guasto
+  - bilanciamento
+  - nell
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12453_6_4_4
+  norm: UNI EN 12453:2022
+  clause: 6.4.4
+  title: Forza fisica umana per l'azionamento manuale dell'anta di porta
+  keywords:
+  - forza
+  - fisica
+  - umana
+  - azionamento
+  - manuale
+  - dell
+  - anta
+  - porta
+  note: ''
+- id: EN12453_6_5
+  norm: UNI EN 12453:2022
+  clause: '6.5'
+  title: Altri pericoli
+  keywords:
+  - altri
+  - pericoli
+  note: ''
+- id: EN12453_6_5_1
+  norm: UNI EN 12453:2022
+  clause: 6.5.1
+  title: Portoncini
+  keywords:
+  - portoncini
+  note: ''
+- id: EN12453_6_5_2
+  norm: UNI EN 12453:2022
+  clause: 6.5.2
+  title: Imprigionamento
+  keywords:
+  - imprigionamento
+  note: ''
+- id: EN12453_6_5_3
+  norm: UNI EN 12453:2022
+  clause: 6.5.3
+  title: 6.5.4
+  keywords: []
+  note: ''
+- id: EN12453_6_5_5
+  norm: UNI EN 12453:2022
+  clause: 6.5.5
+  title: Intrappolamento
+  keywords:
+  - intrappolamento
+  note: ''
+- id: EN12453_6_5_6
+  norm: UNI EN 12453:2022
+  clause: 6.5.6
+  title: Perdita di stabilità
+  keywords:
+  - perdita
+  - stabilità
+  note: ''
+- id: EN12453_6_5_7
+  norm: UNI EN 12453:2022
+  clause: 6.5.7
+  title: Materiali per vetrate
+  keywords:
+  - materiali
+  - vetrate
+  note: ''
+- id: EN12453_6_5_8
+  norm: UNI EN 12453:2022
+  clause: 6.5.8
+  title: Modifica delle impostazioni
+  keywords:
+  - modifica
+  - impostazioni
+  note: ''
+- id: EN12453_7
+  norm: UNI EN 12453:2022
+  clause: '7'
+  title: INFORMAZIONI PER L’UTILIZZO
+  keywords:
+  - informazioni
+  - utilizzo
+  note: ''
+- id: EN12453_7_2
+  norm: UNI EN 12453:2022
+  clause: '7.2'
+  title: Marcatura
+  keywords:
+  - marcatura
+  note: ''
+- id: EN12453_7_1
+  norm: UNI EN 12453:2022
+  clause: '7.1'
+  title: di tali norme.
+  keywords:
+  - tali
+  - norme
+  note: ''
+- id: EN12453_5_3_2
+  norm: UNI EN 12453:2022
+  clause: 5.3.2
+  title: della presente norma.
+  keywords:
+  - presente
+  - norma
+  note: ''
+- id: EN12453_APP_A
+  norm: UNI EN 12453:2022
+  clause: Appendice A
+  title: LIMITAZIONE DELLE FORZE
+  keywords:
+  - limitazione
+  - forze
+  note: ''
+- id: EN12453_50
+  norm: UNI EN 12453:2022
+  clause: '50'
+  title: mm a 500 mm
+  keywords:
+  - '500'
+  note: ''
+- id: EN12453_400
+  norm: UNI EN 12453:2022
+  clause: '400'
+  title: N 1 400 N 1 400 N
+  keywords:
+  - '400'
+  note: ''
+- id: EN12453_400
+  norm: UNI EN 12453:2022
+  clause: '400'
+  title: N 400 N 1 400 N
+  keywords:
+  - '400'
+  note: ''
+- id: EN12453_APP_B
+  norm: UNI EN 12453:2022
+  clause: Appendice B
+  title: ESEMPI DI PROTEZIONE MECCANICA E DISTANZE DI SICUREZZA
+  keywords:
+  - esempi
+  - protezione
+  - meccanica
+  - distanze
+  - sicurezza
+  note: ''
+- id: EN12453_1
+  norm: UNI EN 12453:2022
+  clause: '1'
+  title: Maniglia
+  keywords:
+  - maniglia
+  note: ''
+- id: EN12453_2
+  norm: UNI EN 12453:2022
+  clause: '2'
+  title: Schermo
+  keywords:
+  - schermo
+  note: ''
+- id: EN12453_1
+  norm: UNI EN 12453:2022
+  clause: '1'
+  title: Interstizio
+  keywords:
+  - interstizio
+  note: ''
+- id: EN12453_500
+  norm: UNI EN 12453:2022
+  clause: '500'
+  title: mm per il resto dell’interstizio (a partire da 250 mm oltre il perno) tra la porta
+  keywords:
+  - resto
+  - dell
+  - interstizio
+  - partire
+  - '250'
+  - oltre
+  - perno
+  - tra
+  - porta
+  note: ''
+- id: EN12453_APP_C
+  norm: UNI EN 12453:2022
+  clause: Appendice C
+  title: METODO DI MISURAZIONE DELLA FORZA
+  keywords:
+  - metodo
+  - misurazione
+  - forza
+  note: ''
+- id: EN12453_1
+  norm: UNI EN 12453:2022
+  clause: '1'
+  title: Direzione di misurazione della forza
+  keywords:
+  - direzione
+  - misurazione
+  - forza
+  note: ''
+- id: EN12453_1
+  norm: UNI EN 12453:2022
+  clause: '1'
+  title: 000 mm dai cardini dell'anta di porta o sul bordo primario di chiusura dell'anta di
+  keywords:
+  - '000'
+  - dai
+  - cardini
+  - dell
+  - anta
+  - porta
+  - sul
+  - bordo
+  - primario
+  - chiusura
+  note: ''
+- id: EN12453_1
+  norm: UNI EN 12453:2022
+  clause: '1'
+  title: Punto di intersezione
+  keywords:
+  - punto
+  - intersezione
+  note: ''
+- id: EN12453_2
+  norm: UNI EN 12453:2022
+  clause: '2'
+  title: Punto di misura
+  keywords:
+  - punto
+  - misura
+  note: ''
+- id: EN12453_2
+  norm: UNI EN 12453:2022
+  clause: '2'
+  title: m rispetto al terreno, e a un angolo massimo con l'orizzontale di 45° (vedere figura C.10).
+  keywords:
+  - rispetto
+  - terreno
+  - angolo
+  - massimo
+  - orizzontale
+  - vedere
+  - figura
+  note: ''
+- id: EN12453_820
+  norm: UNI EN 12453:2022
+  clause: '820'
+  title: nm a 946 nm. Per i dispositivi di rilevamento che utilizzano altre tecnologie, devono
+  keywords:
+  - '946'
+  - dispositivi
+  - rilevamento
+  - utilizzano
+  - altre
+  - tecnologie
+  - devono
+  note: ''
+- id: EN12453_4_2_13
+  norm: UNI EN 12453:2022
+  clause: 4.2.13
+  title: della IEC 61496-3:2008 per ulteriori materiali) mentre gli altri due lati sono costituiti
+  keywords:
+  - iec
+  - '61496'
+  - '2008'
+  - ulteriori
+  - materiali
+  - mentre
+  - altri
+  - due
+  - lati
+  - sono
+  note: ''
+- id: EN12453_50
+  norm: UNI EN 12453:2022
+  clause: '50'
+  title: mm (vedere figura D.1 b). La metà della superficie esterna deve essere costituita da
+  keywords:
+  - vedere
+  - figura
+  - metà
+  - superficie
+  - esterna
+  - deve
+  - essere
+  - costituita
+  note: ''
+- id: EN12453_APP_E
+  norm: UNI EN 12453:2022
+  clause: Appendice E
+  title: SALVAGUARDIA DALLA CADUTA MEDIANTE ALTRE CARATTERISTICHE DI
+  keywords:
+  - salvaguardia
+  - dalla
+  - caduta
+  - mediante
+  - altre
+  - caratteristiche
+  note: ''
+- id: EN12453_APP_F
+  norm: UNI EN 12453:2022
+  clause: Appendice F
+  title: RAPPORTO TRA I PUNTI RELATIVI AI PERICOLI, AI REQUISITI E ALLE PROVE
+  keywords:
+  - rapporto
+  - tra
+  - punti
+  - relativi
+  - pericoli
+  - requisiti
+  - prove
+  note: ''
+- id: EN12453_4_2_1
+  norm: UNI EN 12453:2022
+  clause: 4.2.1
+  title: 5.2.1 6.2.1
+  keywords: []
+  note: ''
+- id: EN12453_5_2_1_3
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.3
+  title: 5.2.1.5
+  keywords: []
+  note: ''
+- id: EN12453_5_2_1_6
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.6
+  title: 5.2.1.7
+  keywords: []
+  note: ''
+- id: EN12453_6_2_1_2
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.2
+  title: 6.2.1.3
+  keywords: []
+  note: ''
+- id: EN12453_6_2_1_5
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.5
+  title: 6.2.1.6
+  keywords: []
+  note: ''
+- id: EN12453_6_2_1_7
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.7
+  title: 4.2.1, secondo paragrafo 5.2.1.5
+  keywords:
+  - secondo
+  - paragrafo
+  note: ''
+- id: EN12453_6_2_1_7
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.7
+  title: 4.2.1, terzo paragrafo 5.2.1.2
+  keywords:
+  - terzo
+  - paragrafo
+  note: ''
+- id: EN12453_6_2_1_7
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.7
+  title: 4.2.1, quarto paragrafo 5.2.1.2
+  keywords:
+  - quarto
+  - paragrafo
+  note: ''
+- id: EN12453_6_2_1_7
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.7
+  title: 4.2.1, quinto paragrafo 5.2.1.4 6.2.1.4
+  keywords:
+  - quinto
+  - paragrafo
+  note: ''
+- id: EN12453_5_2_1_5
+  norm: UNI EN 12453:2022
+  clause: 5.2.1.5
+  title: 6.2.1.3
+  keywords: []
+  note: ''
+- id: EN12453_6_2_1_5
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.5
+  title: Di natura meccanica 4.2.1, settimo paragrafo 5.2.1.2
+  keywords:
+  - natura
+  - meccanica
+  - settimo
+  - paragrafo
+  note: ''
+- id: EN12453_6_2_1_7
+  norm: UNI EN 12453:2022
+  clause: 6.2.1.7
+  title: 4.2.2 5.2.2 6.2.2
+  keywords: []
+  note: ''
+- id: EN12453_4_2_3
+  norm: UNI EN 12453:2022
+  clause: 4.2.3
+  title: 5.2.3 6.2.3
+  keywords: []
+  note: ''
+- id: EN12453_5_3_6
+  norm: UNI EN 12453:2022
+  clause: 5.3.6
+  title: 6.3.1 o 6.3.2 o 6.3.3
+  keywords: []
+  note: ''
+- id: EN12453_6_3_5
+  norm: UNI EN 12453:2022
+  clause: 6.3.5
+  title: 4.3, quinto paragrafo 5.3.5 6.3.4
+  keywords:
+  - quinto
+  - paragrafo
+  note: ''
+- id: EN12453_5_4_2
+  norm: UNI EN 12453:2022
+  clause: 5.4.2
+  title: 5.4.3
+  keywords: []
+  note: ''
+- id: EN12453_5_4_4
+  norm: UNI EN 12453:2022
+  clause: 5.4.4
+  title: 6.4.1
+  keywords: []
+  note: ''
+- id: EN12453_6_4_2
+  norm: UNI EN 12453:2022
+  clause: 6.4.2
+  title: 6.4.3
+  keywords: []
+  note: ''
+- id: EN12453_4_5_3
+  norm: UNI EN 12453:2022
+  clause: 4.5.3
+  title: 5.5.2 6.5.2
+  keywords: []
+  note: ''
+- id: EN12453_4_5_4
+  norm: UNI EN 12453:2022
+  clause: 4.5.4
+  title: 5.5.3 6.5.3
+  keywords: []
+  note: ''
+- id: EN12453_4_5_5
+  norm: UNI EN 12453:2022
+  clause: 4.5.5
+  title: 5.5.4 6.5.4
+  keywords: []
+  note: ''
+- id: EN12453_4_5_6
+  norm: UNI EN 12453:2022
+  clause: 4.5.6
+  title: 5.5.5 6.5.5
+  keywords: []
+  note: ''
+- id: EN12453_4_5_7
+  norm: UNI EN 12453:2022
+  clause: 4.5.7
+  title: 5.5.6 6.5.6
+  keywords: []
+  note: ''
+- id: EN12453_4_5_8
+  norm: UNI EN 12453:2022
+  clause: 4.5.8
+  title: 5.5.7 6.5.7
+  keywords: []
+  note: ''
+- id: EN12453_4_5_9
+  norm: UNI EN 12453:2022
+  clause: 4.5.9
+  title: 5.5.8 6.5.8
+  keywords: []
+  note: ''
+- id: EN12453_APP_G
+  norm: UNI EN 12453:2022
+  clause: Appendice G
+  title: REGISTRO
+  keywords:
+  - registro
+  note: ''
+- id: EN12453_1
+  norm: UNI EN 12453:2022
+  clause: '1'
+  title: REQUISITI ESSENZIALI DI SALUTE E SICUREZZA
+  keywords:
+  - requisiti
+  - essenziali
+  - salute
+  - sicurezza
+  note: ''
+- id: EN12453_1_1_2
+  norm: UNI EN 12453:2022
+  clause: 1.1.2
+  title: Principi di integrazione della sicurezza
+  keywords:
+  - principi
+  - integrazione
+  - sicurezza
+  note: ''
+- id: EN12453_1_1_2
+  norm: UNI EN 12453:2022
+  clause: 1.1.2
+  title: (a) 5, 6,
+  keywords: []
+  note: ''
+- id: EN12453_1_1_2
+  norm: UNI EN 12453:2022
+  clause: 1.1.2
+  title: (c) 5, 6,
+  keywords: []
+  note: ''
+- id: EN12453_1_1_2
+  norm: UNI EN 12453:2022
+  clause: 1.1.2
+  title: (e) 5, 6,
+  keywords: []
+  note: ''
+- id: EN12453_1_1_3
+  norm: UNI EN 12453:2022
+  clause: 1.1.3
+  title: Materiali e prodotti 5.5.6, 5.5.7
+  keywords:
+  - materiali
+  - prodotti
+  note: ''
+- id: EN12453_1_1_5
+  norm: UNI EN 12453:2022
+  clause: 1.1.5
+  title: Progettazione di macchinari per agevolarne la
+  keywords:
+  - progettazione
+  - macchinari
+  - agevolarne
+  note: ''
+- id: EN12453_1_1_6
+  norm: UNI EN 12453:2022
+  clause: 1.1.6
+  title: Ergonomia 5.2.1.4, 5.4.5
+  keywords:
+  - ergonomia
+  note: ''
+- id: EN12453_1_2_1
+  norm: UNI EN 12453:2022
+  clause: 1.2.1
+  title: Sicurezza e affidabilità dei sistemi di controllo 5.1.2, 5.3, 5.3.2
+  keywords:
+  - sicurezza
+  - affidabilità
+  - sistemi
+  - controllo
+  note: ''
+- id: EN12453_1_2_2
+  norm: UNI EN 12453:2022
+  clause: 1.2.2
+  title: Dispositivi di comando 5.3, 5.3.2
+  keywords:
+  - dispositivi
+  - comando
+  note: ''
+- id: EN12453_1_2_3
+  norm: UNI EN 12453:2022
+  clause: 1.2.3
+  title: Inizio 5.3, 5.3.5
+  keywords:
+  - inizio
+  note: ''
+- id: EN12453_1_2_4_1
+  norm: UNI EN 12453:2022
+  clause: 1.2.4.1
+  title: Arresto normale 5.3
+  keywords:
+  - arresto
+  - normale
+  note: ''
+- id: EN12453_1_2_4_2
+  norm: UNI EN 12453:2022
+  clause: 1.2.4.2
+  title: Arresto operativo 5.3
+  keywords:
+  - arresto
+  - operativo
+  note: ''
+- id: EN12453_1_2_4_3
+  norm: UNI EN 12453:2022
+  clause: 1.2.4.3
+  title: Arresto di emergenza 5.3
+  keywords:
+  - arresto
+  - emergenza
+  note: ''
+- id: EN12453_1_2_4_4
+  norm: UNI EN 12453:2022
+  clause: 1.2.4.4
+  title: Montaggio del macchinario 5.3
+  keywords:
+  - montaggio
+  - macchinario
+  note: ''
+- id: EN12453_1_2_5
+  norm: UNI EN 12453:2022
+  clause: 1.2.5
+  title: Selezione delle modalità di controllo o di funzionamento 5.3
+  keywords:
+  - selezione
+  - modalità
+  - controllo
+  - funzionamento
+  note: ''
+- id: EN12453_1_2_6
+  norm: UNI EN 12453:2022
+  clause: 1.2.6
+  title: Guasto dell'alimentazione elettrica 5.3
+  keywords:
+  - guasto
+  - dell
+  - alimentazione
+  - elettrica
+  note: ''
+- id: EN12453_1_3
+  norm: UNI EN 12453:2022
+  clause: '1.3'
+  title: Protezione contro i pericoli meccanici 5.2, 5.2.1.6.2, 5.2.1.6.3, 5.2.1.6.4, 5.2.3, 5.5.4
+  keywords:
+  - protezione
+  - contro
+  - pericoli
+  - meccanici
+  note: ''
+- id: EN12453_1_3_1
+  norm: UNI EN 12453:2022
+  clause: 1.3.1
+  title: Rischio di perdita di stabilità 5.5.6
+  keywords:
+  - rischio
+  - perdita
+  - stabilità
+  note: ''
+- id: EN12453_1_3_2
+  norm: UNI EN 12453:2022
+  clause: 1.3.2
+  title: Rischio di rottura durante il funzionamento 5.5.7
+  keywords:
+  - rischio
+  - rottura
+  - durante
+  - funzionamento
+  note: ''
+- id: EN12453_1_3_3
+  norm: UNI EN 12453:2022
+  clause: 1.3.3
+  title: Rischi dovuti alla caduta o all'espulsione di oggetti 5.5.4
+  keywords:
+  - rischi
+  - dovuti
+  - alla
+  - caduta
+  - espulsione
+  - oggetti
+  note: ''
+- id: EN12453_1_3_4
+  norm: UNI EN 12453:2022
+  clause: 1.3.4
+  title: Rischi dovuti a superfici, bordi o angoli 5.2, 5.2.1.4, 5.2.1.6.2, 5.2.1.6.3, 5.2.1.6.4, 5.2.3,
+  keywords:
+  - rischi
+  - dovuti
+  - superfici
+  - bordi
+  - angoli
+  note: ''
+- id: EN12453_1_3_6
+  norm: UNI EN 12453:2022
+  clause: 1.3.6
+  title: Rischi correlati alle variazioni delle condizioni operative 5.4.3
+  keywords:
+  - rischi
+  - correlati
+  - variazioni
+  - condizioni
+  - operative
+  note: ''
+- id: EN12453_1_3_7
+  norm: UNI EN 12453:2022
+  clause: 1.3.7
+  title: Rischi correlati agli organi mobili 5.1.3, 5.2, 5.2.1.6.2, 5.2.1.6.3, 5.2.1.6.4, 5.4.2,
+  keywords:
+  - rischi
+  - correlati
+  - organi
+  - mobili
+  note: ''
+- id: EN12453_1_3_8_1
+  norm: UNI EN 12453:2022
+  clause: 1.3.8.1
+  title: Organi di trasmissione mobili 5.1.3, 5.2
+  keywords:
+  - organi
+  - trasmissione
+  - mobili
+  note: ''
+- id: EN12453_1_3_8_2
+  norm: UNI EN 12453:2022
+  clause: 1.3.8.2
+  title: Parti mobili coinvolte nel processo 5.1.3, 5.2.1.3
+  keywords:
+  - parti
+  - mobili
+  - coinvolte
+  - nel
+  - processo
+  note: ''
+- id: EN12453_1_3_9
+  norm: UNI EN 12453:2022
+  clause: 1.3.9
+  title: Rischi di movimenti incontrollati 5.4.4, 5.5.4
+  keywords:
+  - rischi
+  - movimenti
+  - incontrollati
+  note: ''
+- id: EN12453_1_4_1
+  norm: UNI EN 12453:2022
+  clause: 1.4.1
+  title: Requisiti generali 5.2.1.3
+  keywords:
+  - requisiti
+  - generali
+  note: ''
+- id: EN12453_1_4_2_1
+  norm: UNI EN 12453:2022
+  clause: 1.4.2.1
+  title: Ripari fissi 5.2.1.3
+  keywords:
+  - ripari
+  - fissi
+  note: ''
+- id: EN12453_1_4_2_2
+  norm: UNI EN 12453:2022
+  clause: 1.4.2.2
+  title: Ripari mobili interbloccati 5.2.1.3
+  keywords:
+  - ripari
+  - mobili
+  - interbloccati
+  note: ''
+- id: EN12453_1_4_2_3
+  norm: UNI EN 12453:2022
+  clause: 1.4.2.3
+  title: Ripari regolabili che limitano l'accesso 5.2.1.3
+  keywords:
+  - ripari
+  - regolabili
+  - limitano
+  - accesso
+  note: ''
+- id: EN12453_1_4_3
+  norm: UNI EN 12453:2022
+  clause: 1.4.3
+  title: Requisiti speciali per i dispositivi di protezione 5.2.1.3
+  keywords:
+  - requisiti
+  - speciali
+  - dispositivi
+  - protezione
+  note: ''
+- id: EN12453_1_5_1
+  norm: UNI EN 12453:2022
+  clause: 1.5.1
+  title: Alimentazione elettrica 5.3
+  keywords:
+  - alimentazione
+  - elettrica
+  note: ''
+- id: EN12453_1_5_2
+  norm: UNI EN 12453:2022
+  clause: 1.5.2
+  title: Elettricità statica 5.3
+  keywords:
+  - elettricità
+  - statica
+  note: ''
+- id: EN12453_1_5_3
+  norm: UNI EN 12453:2022
+  clause: 1.5.3
+  title: Fornitura di energia diversa dall'elettricità -Non contemplato
+  keywords:
+  - fornitura
+  - energia
+  - diversa
+  - dall
+  - elettricità
+  - non
+  - contemplato
+  note: ''
+- id: EN12453_1_5_4
+  norm: UNI EN 12453:2022
+  clause: 1.5.4
+  title: Errori di montaggio
+  keywords:
+  - errori
+  - montaggio
+  note: ''
+- id: EN12453_1_5_6
+  norm: UNI EN 12453:2022
+  clause: 1.5.6
+  title: Fuoco 5.3
+  keywords:
+  - fuoco
+  note: ''
+- id: EN12453_1_5_8
+  norm: UNI EN 12453:2022
+  clause: 1.5.8
+  title: Rumore 7.1
+  keywords:
+  - rumore
+  note: ''
+- id: EN12453_1_5_13
+  norm: UNI EN 12453:2022
+  clause: 1.5.13
+  title: Emissioni di materiali e sostanze pericolosi -Non contemplato
+  keywords:
+  - emissioni
+  - materiali
+  - sostanze
+  - pericolosi
+  - non
+  - contemplato
+  note: ''
+- id: EN12453_1_5_14
+  norm: UNI EN 12453:2022
+  clause: 1.5.14
+  title: Rischio di rimanere intrappolati in una macchina 5.5.3
+  keywords:
+  - rischio
+  - rimanere
+  - intrappolati
+  - macchina
+  note: ''
+- id: EN12453_1_6_1
+  norm: UNI EN 12453:2022
+  clause: 1.6.1
+  title: Manutenzione dei macchinari 7.1, Appendice G
+  keywords:
+  - manutenzione
+  - macchinari
+  - appendice
+  note: ''
+- id: EN12453_1_6_2
+  norm: UNI EN 12453:2022
+  clause: 1.6.2
+  title: Accesso alle postazioni di lavoro e ai punti di manutenzione 5.5.8, 7.1, Appendice G
+  keywords:
+  - accesso
+  - postazioni
+  - lavoro
+  - punti
+  - manutenzione
+  - appendice
+  note: ''
+- id: EN12453_1_6_3
+  norm: UNI EN 12453:2022
+  clause: 1.6.3
+  title: Isolamento delle fonti di energia 5.3.6
+  keywords:
+  - isolamento
+  - fonti
+  - energia
+  note: ''
+- id: EN12453_1_6_4
+  norm: UNI EN 12453:2022
+  clause: 1.6.4
+  title: Intervento dell'operatore 7.1
+  keywords:
+  - intervento
+  - dell
+  - operatore
+  note: ''
+- id: EN12453_1_6_5
+  norm: UNI EN 12453:2022
+  clause: 1.6.5
+  title: Pulizia delle parti interne 7.1
+  keywords:
+  - pulizia
+  - parti
+  - interne
+  note: ''
+- id: EN12453_1_7_1_1
+  norm: UNI EN 12453:2022
+  clause: 1.7.1.1
+  title: Informazioni e dispositivi informativi 7.1
+  keywords:
+  - informazioni
+  - dispositivi
+  - informativi
+  note: ''
+- id: EN12453_1_7_1_2
+  norm: UNI EN 12453:2022
+  clause: 1.7.1.2
+  title: Dispositivi di allarme 7.1
+  keywords:
+  - dispositivi
+  - allarme
+  note: ''
+- id: EN12453_1_7_2
+  norm: UNI EN 12453:2022
+  clause: 1.7.2
+  title: Avvertenza circa i rischi residui 7.1
+  keywords:
+  - avvertenza
+  - circa
+  - rischi
+  - residui
+  note: ''
+- id: EN12453_1_7_3
+  norm: UNI EN 12453:2022
+  clause: 1.7.3
+  title: Marcatura dei macchinari 7.2
+  keywords:
+  - marcatura
+  - macchinari
+  note: ''
+- id: EN12453_1_7_4_1
+  norm: UNI EN 12453:2022
+  clause: 1.7.4.1
+  title: Principi generali per la redazione delle istruzioni 7.1
+  keywords:
+  - principi
+  - generali
+  - redazione
+  - istruzioni
+  note: ''
+- id: EN12453_1_7_4_2
+  norm: UNI EN 12453:2022
+  clause: 1.7.4.2
+  title: Contenuto delle istruzioni 7.1
+  keywords:
+  - contenuto
+  - istruzioni
+  note: ''
+- id: EN12453_1_7_4_3
+  norm: UNI EN 12453:2022
+  clause: 1.7.4.3
+  title: Letteratura commerciale -Non contemplato
+  keywords:
+  - letteratura
+  - commerciale
+  - non
+  - contemplato
+  note: ''
+- id: EN12978_1
+  norm: UNI EN 12978:2009
+  clause: '1'
+  title: SCOPO E CAMPO DI APPLICAZIONE
+  keywords:
+  - scopo
+  - campo
+  - applicazione
+  note: ''
+- id: EN12978_1_1
+  norm: UNI EN 12978:2009
+  clause: '1.1'
+  title: Generale
+  keywords:
+  - generale
+  note: ''
+- id: EN12978_1_2
+  norm: UNI EN 12978:2009
+  clause: '1.2'
+  title: Esclusioni
+  keywords:
+  - esclusioni
+  note: ''
+- id: EN12978_1_3
+  norm: UNI EN 12978:2009
+  clause: '1.3'
+  title: Tipi di porte e applicazioni
+  keywords:
+  - tipi
+  - porte
+  - applicazioni
+  note: ''
+- id: EN12978_2
+  norm: UNI EN 12978:2009
+  clause: '2'
+  title: RIFERIMENTI NORMATIVI
+  keywords:
+  - riferimenti
+  - normativi
+  note: ''
+- id: EN12978_3
+  norm: UNI EN 12978:2009
+  clause: '3'
+  title: TERMINI E DEFINIZIONI
+  keywords:
+  - termini
+  - definizioni
+  note: ''
+- id: EN12978_4
+  norm: UNI EN 12978:2009
+  clause: '4'
+  title: REQUISITI
+  keywords:
+  - requisiti
+  note: ''
+- id: EN12978_4_1
+  norm: UNI EN 12978:2009
+  clause: '4.1'
+  title: Generale
+  keywords:
+  - generale
+  note: ''
+- id: EN12978_4_1_1
+  norm: UNI EN 12978:2009
+  clause: 4.1.1
+  title: Condizioni ambientali
+  keywords:
+  - condizioni
+  - ambientali
+  note: ''
+- id: EN12978_4_1_2
+  norm: UNI EN 12978:2009
+  clause: 4.1.2
+  title: Alimentazione
+  keywords:
+  - alimentazione
+  note: ''
+- id: EN12978_4_1_3
+  norm: UNI EN 12978:2009
+  clause: 4.1.3
+  title: Equipaggiamento elettrico
+  keywords:
+  - equipaggiamento
+  - elettrico
+  note: ''
+- id: EN12978_4_1_4
+  norm: UNI EN 12978:2009
+  clause: 4.1.4
+  title: Involucri per equipaggiamento elettrico
+  keywords:
+  - involucri
+  - equipaggiamento
+  - elettrico
+  note: ''
+- id: EN12978_4_1_5
+  norm: UNI EN 12978:2009
+  clause: 4.1.5
+  title: Requisiti funzionali
+  keywords:
+  - requisiti
+  - funzionali
+  note: ''
+- id: EN12978_4_1_6
+  norm: UNI EN 12978:2009
+  clause: 4.1.6
+  title: Regolazioni
+  keywords:
+  - regolazioni
+  note: ''
+- id: EN12978_4_1_7
+  norm: UNI EN 12978:2009
+  clause: 4.1.7
+  title: Fissaggio dei dispositivi di sicurezza
+  keywords:
+  - fissaggio
+  - dispositivi
+  - sicurezza
+  note: ''
+- id: EN12978_4_2
+  norm: UNI EN 12978:2009
+  clause: '4.2'
+  title: Requisiti aggiuntivi per apparati di protezione sensibili alla pressione
+  keywords:
+  - requisiti
+  - aggiuntivi
+  - apparati
+  - protezione
+  - sensibili
+  - alla
+  - pressione
+  note: ''
+- id: EN12978_4_2_1
+  norm: UNI EN 12978:2009
+  clause: 4.2.1
+  title: Coperture addizionali degli elementi sensibili
+  keywords:
+  - coperture
+  - addizionali
+  - degli
+  - elementi
+  - sensibili
+  note: ''
+- id: EN12978_4_2_2
+  norm: UNI EN 12978:2009
+  clause: 4.2.2
+  title: Forza di azionamento
+  keywords:
+  - forza
+  - azionamento
+  note: ''
+- id: EN12978_4_2_3
+  norm: UNI EN 12978:2009
+  clause: 4.2.3
+  title: Requisiti specifici per bordi e barre sensibili alla pressione
+  keywords:
+  - requisiti
+  - specifici
+  - bordi
+  - barre
+  - sensibili
+  - alla
+  - pressione
+  note: ''
+- id: EN12978_4_2_4
+  norm: UNI EN 12978:2009
+  clause: 4.2.4
+  title: Requisiti specifici per tappeti e pavimenti sensibili alla pressione
+  keywords:
+  - requisiti
+  - specifici
+  - tappeti
+  - pavimenti
+  - sensibili
+  - alla
+  - pressione
+  note: ''
+- id: EN12978_4_3
+  norm: UNI EN 12978:2009
+  clause: '4.3'
+  title: Requisiti addizionali per apparati di protezione elettrosensibili
+  keywords:
+  - requisiti
+  - addizionali
+  - apparati
+  - protezione
+  - elettrosensibili
+  note: ''
+- id: EN12978_4_3_1
+  norm: UNI EN 12978:2009
+  clause: 4.3.1
+  title: Capacità di rilevazione
+  keywords:
+  - capacità
+  - rilevazione
+  note: ''
+- id: EN12978_4_3_2
+  norm: UNI EN 12978:2009
+  clause: 4.3.2
+  title: Laser
+  keywords:
+  - laser
+  note: ''
+- id: EN12978_4_3_3
+  norm: UNI EN 12978:2009
+  clause: 4.3.3
+  title: Requisiti addizionali per dispositivi di protezione opto-elettronici attivi (AOPD)
+  keywords:
+  - requisiti
+  - addizionali
+  - dispositivi
+  - protezione
+  - opto
+  - elettronici
+  - attivi
+  - aopd
+  note: ''
+- id: EN12978_5
+  norm: UNI EN 12978:2009
+  clause: '5'
+  title: MARCATURA
+  keywords:
+  - marcatura
+  note: ''
+- id: EN12978_5_1
+  norm: UNI EN 12978:2009
+  clause: '5.1'
+  title: Apparati di protezione elettrosensibili
+  keywords:
+  - apparati
+  - protezione
+  - elettrosensibili
+  note: ''
+- id: EN12978_5_2
+  norm: UNI EN 12978:2009
+  clause: '5.2'
+  title: Apparati di protezione sensibili alla pressione
+  keywords:
+  - apparati
+  - protezione
+  - sensibili
+  - alla
+  - pressione
+  note: ''
+- id: EN12978_6
+  norm: UNI EN 12978:2009
+  clause: '6'
+  title: INFORMAZIONE PER L'USO
+  keywords:
+  - informazione
+  - uso
+  note: ''
+- id: EN12978_6_1
+  norm: UNI EN 12978:2009
+  clause: '6.1'
+  title: Manuale di istruzione - Generale
+  keywords:
+  - manuale
+  - istruzione
+  - generale
+  note: ''
+- id: EN12978_6_1_1
+  norm: UNI EN 12978:2009
+  clause: 6.1.1
+  title: Apparati di protezione elettrosensibili
+  keywords:
+  - apparati
+  - protezione
+  - elettrosensibili
+  note: ''
+- id: EN12978_6_1_2
+  norm: UNI EN 12978:2009
+  clause: 6.1.2
+  title: Apparati di protezione sensibili alla pressione
+  keywords:
+  - apparati
+  - protezione
+  - sensibili
+  - alla
+  - pressione
+  note: ''
+- id: EN12978_6_2
+  norm: UNI EN 12978:2009
+  clause: '6.2'
+  title: Istruzioni per l'installazione di un dispositivo di sicurezza
+  keywords:
+  - istruzioni
+  - installazione
+  - dispositivo
+  - sicurezza
+  note: ''
+- id: EN12978_6_3
+  norm: UNI EN 12978:2009
+  clause: '6.3'
+  title: Istruzioni per l'uso del dispositivo di sicurezza
+  keywords:
+  - istruzioni
+  - uso
+  - dispositivo
+  - sicurezza
+  note: ''
+- id: EN12978_6_4
+  norm: UNI EN 12978:2009
+  clause: '6.4'
+  title: Istruzioni per la manutenzione
+  keywords:
+  - istruzioni
+  - manutenzione
+  note: ''
+- id: EN12978_7
+  norm: UNI EN 12978:2009
+  clause: '7'
+  title: VERIFICA E METODI DI PROVA
+  keywords:
+  - verifica
+  - metodi
+  - prova
+  note: ''
+- id: EN12978_7_1
+  norm: UNI EN 12978:2009
+  clause: '7.1'
+  title: Generale
+  keywords:
+  - generale
+  note: ''
+- id: EN12978_7_2
+  norm: UNI EN 12978:2009
+  clause: '7.2'
+  title: Campione di prova
+  keywords:
+  - campione
+  - prova
+  note: ''
+- id: EN12978_7_2_1
+  norm: UNI EN 12978:2009
+  clause: 7.2.1
+  title: Campioni di prova preferibili
+  keywords:
+  - campioni
+  - prova
+  - preferibili
+  note: ''
+- id: EN12978_7_3
+  norm: UNI EN 12978:2009
+  clause: '7.3'
+  title: Condizioni di prova
+  keywords:
+  - condizioni
+  - prova
+  note: ''
+- id: EN12978_7_3_1
+  norm: UNI EN 12978:2009
+  clause: 7.3.1
+  title: Condizioni ambientali di prova
+  keywords:
+  - condizioni
+  - ambientali
+  - prova
+  note: ''
+- id: EN12978_7_4
+  norm: UNI EN 12978:2009
+  clause: '7.4'
+  title: Prove ambientali
+  keywords:
+  - prove
+  - ambientali
+  note: ''
+- id: EN12978_7_4_1
+  norm: UNI EN 12978:2009
+  clause: 7.4.1
+  title: Generale
+  keywords:
+  - generale
+  note: ''
+- id: EN12978_7_4_2
+  norm: UNI EN 12978:2009
+  clause: 7.4.2
+  title: Intervallo di temperatura
+  keywords:
+  - intervallo
+  - temperatura
+  note: ''
+- id: EN12978_7_4_3
+  norm: UNI EN 12978:2009
+  clause: 7.4.3
+  title: Umidità
+  keywords:
+  - umidità
+  note: ''
+- id: EN12978_7_4_4
+  norm: UNI EN 12978:2009
+  clause: 7.4.4
+  title: Compatibilità elettromagnetica
+  keywords:
+  - compatibilità
+  - elettromagnetica
+  note: ''
+- id: EN12978_7_4_5
+  norm: UNI EN 12978:2009
+  clause: 7.4.5
+  title: Vibrazione
+  keywords:
+  - vibrazione
+  note: ''
+- id: EN12978_7_4_6
+  norm: UNI EN 12978:2009
+  clause: 7.4.6
+  title: Alimentazione
+  keywords:
+  - alimentazione
+  note: ''
+- id: EN12978_7_5
+  norm: UNI EN 12978:2009
+  clause: '7.5'
+  title: Equipaggiamento elettrico
+  keywords:
+  - equipaggiamento
+  - elettrico
+  note: ''
+- id: EN12978_7_6
+  norm: UNI EN 12978:2009
+  clause: '7.6'
+  title: Involucri per equipaggiamento elettrico
+  keywords:
+  - involucri
+  - equipaggiamento
+  - elettrico
+  note: ''
+- id: EN12978_7_7
+  norm: UNI EN 12978:2009
+  clause: '7.7'
+  title: Prova funzionale
+  keywords:
+  - prova
+  - funzionale
+  note: ''
+- id: EN12978_7_7_1
+  norm: UNI EN 12978:2009
+  clause: 7.7.1
+  title: Funzione sensibile e capacità di rilevazione
+  keywords:
+  - funzione
+  - sensibile
+  - capacità
+  - rilevazione
+  note: ''
+- id: EN12978_7_7_2
+  norm: UNI EN 12978:2009
+  clause: 7.7.2
+  title: Tempo di risposta
+  keywords:
+  - tempo
+  - risposta
+  note: ''
+- id: EN12978_7_8
+  norm: UNI EN 12978:2009
+  clause: '7.8'
+  title: Regolazioni
+  keywords:
+  - regolazioni
+  note: ''
+- id: EN12978_7_9
+  norm: UNI EN 12978:2009
+  clause: '7.9'
+  title: Fissaggio del sensore
+  keywords:
+  - fissaggio
+  - sensore
+  note: ''
+- id: EN12978_7_10
+  norm: UNI EN 12978:2009
+  clause: '7.10'
+  title: Caratteristiche operative del PSPE
+  keywords:
+  - caratteristiche
+  - operative
+  - pspe
+  note: ''
+- id: EN12978_7_11
+  norm: UNI EN 12978:2009
+  clause: '7.11'
+  title: Guasto singolo
+  keywords:
+  - guasto
+  - singolo
+  note: ''
+- id: EN12978_7_12
+  norm: UNI EN 12978:2009
+  clause: '7.12'
+  title: Marcatura
+  keywords:
+  - marcatura
+  note: ''
+- id: EN12978_7_13
+  norm: UNI EN 12978:2009
+  clause: '7.13'
+  title: Informazioni per l'installazione e l'uso
+  keywords:
+  - informazioni
+  - installazione
+  - uso
+  note: ''
+- id: EN12978_APP_A
+  norm: UNI EN 12978:2009
+  clause: Appendice A
+  title: ELENCO DEI RISCHI SIGNIFICATIVI
+  keywords:
+  - elenco
+  - rischi
+  - significativi
+  note: ''
+- id: EN12978_3_1
+  norm: UNI EN 12978:2009
+  clause: '3.1'
+  title: 'apparati di protezione elettrosensibili (ESPE): Insieme di dispositivi e/o componenti non'
+  keywords:
+  - apparati
+  - protezione
+  - elettrosensibili
+  - espe
+  - insieme
+  - dispositivi
+  - componenti
+  - non
+  note: ''
+- id: EN12978_12
+  norm: UNI EN 12978:2009
+  clause: '12'
+  title: Azionatore principale della porta
+  keywords:
+  - azionatore
+  - principale
+  - porta
+  note: ''
+- id: EN12978_3_2
+  norm: UNI EN 12978:2009
+  clause: '3.2'
+  title: 'apparati di protezione sensibile alla pressione (PSPE): Insiemi di dispositivi e/o'
+  keywords:
+  - apparati
+  - protezione
+  - sensibile
+  - alla
+  - pressione
+  - pspe
+  - insiemi
+  - dispositivi
+  note: ''
+- id: EN12978_12
+  norm: UNI EN 12978:2009
+  clause: '12'
+  title: Elementi sensibili
+  keywords:
+  - elementi
+  - sensibili
+  note: ''
+- id: EN12978_3_3
+  norm: UNI EN 12978:2009
+  clause: '3.3'
+  title: 'area attiva: Parte della superficie dell''elemento sensibile o della combinazione degli elementi'
+  keywords:
+  - area
+  - attiva
+  - parte
+  - superficie
+  - dell
+  - elemento
+  - sensibile
+  - combinazione
+  - degli
+  - elementi
+  note: ''
+- id: EN12978_3_4
+  norm: UNI EN 12978:2009
+  clause: '3.4'
+  title: 'dispositivo di protezione opto-elettronico (AOPD): Apparati di protezione elettro-sensibile'
+  keywords:
+  - dispositivo
+  - protezione
+  - opto
+  - elettronico
+  - aopd
+  - apparati
+  - elettro
+  - sensibile
+  note: ''
+- id: EN12978_3_6
+  norm: UNI EN 12978:2009
+  clause: '3.6'
+  title: 'forza massima di lavoro: Forza che se applicata nella direzione della forza di attivazione'
+  keywords:
+  - forza
+  - massima
+  - lavoro
+  - applicata
+  - nella
+  - direzione
+  - attivazione
+  note: ''
+- id: EN12978_3_7
+  norm: UNI EN 12978:2009
+  clause: '3.7'
+  title: 'causa comune di guasto: Risultato di un evento che, a causa di interdipendenze, origina'
+  keywords:
+  - causa
+  - comune
+  - guasto
+  - risultato
+  - evento
+  - interdipendenze
+  - origina
+  note: ''
+- id: EN12978_3_8
+  norm: UNI EN 12978:2009
+  clause: '3.8'
+  title: 'funzione di controllo/monitoraggio: Funzione dell''apparato di protezione elettro-sensibile'
+  keywords:
+  - funzione
+  - controllo
+  - monitoraggio
+  - dell
+  - apparato
+  - protezione
+  - elettro
+  - sensibile
+  note: ''
+- id: EN12978_12
+  norm: UNI EN 12978:2009
+  clause: '12'
+  title: Commutazione allo stato OFF
+  keywords:
+  - commutazione
+  - allo
+  - stato
+  - 'off'
+  note: ''
+- id: EN12978_13
+  norm: UNI EN 12978:2009
+  clause: '13'
+  title: Massima forza di lavoro raggiunta
+  keywords:
+  - massima
+  - forza
+  - lavoro
+  - raggiunta
+  note: ''
+- id: EN12978_14
+  norm: UNI EN 12978:2009
+  clause: '14'
+  title: Massima forza di lavoro superata
+  keywords:
+  - massima
+  - forza
+  - lavoro
+  - superata
+  note: ''
+- id: EN12978_3_9
+  norm: UNI EN 12978:2009
+  clause: '3.9'
+  title: 'unità di controllo: Parte dell''apparato di protezione sensibile alla pressione (PSPE) che:'
+  keywords:
+  - unità
+  - controllo
+  - parte
+  - dell
+  - apparato
+  - protezione
+  - sensibile
+  - alla
+  - pressione
+  - pspe
+  note: ''
+- id: EN12978_3_10
+  norm: UNI EN 12978:2009
+  clause: '3.10'
+  title: 'intervallo specificato del segnale: Intervallo del segnale all''interno del quale sono stati'
+  keywords:
+  - intervallo
+  - specificato
+  - segnale
+  - interno
+  - quale
+  - sono
+  - stati
+  note: ''
+- id: EN12978_3_11
+  norm: UNI EN 12978:2009
+  clause: '3.11'
+  title: 'capacità di rilevamento: Il limite del parametro funzione sensibile che causa il cambiamento'
+  keywords:
+  - capacità
+  - rilevamento
+  - limite
+  - parametro
+  - funzione
+  - sensibile
+  - causa
+  - cambiamento
+  note: ''
+- id: EN12978_3_12
+  norm: UNI EN 12978:2009
+  clause: '3.12'
+  title: 'zona di rilevamento: Zona all''interno della quale un oggetto specificato di prova è rilevato'
+  keywords:
+  - zona
+  - rilevamento
+  - interno
+  - quale
+  - oggetto
+  - specificato
+  - prova
+  - rilevato
+  note: ''
+- id: EN12978_3_13
+  norm: UNI EN 12978:2009
+  clause: '3.13'
+  title: 'malfunzionamento: Termine della capacità di un componente elettrico di svolgere la'
+  keywords:
+  - malfunzionamento
+  - termine
+  - capacità
+  - componente
+  - elettrico
+  - svolgere
+  note: ''
+- id: EN12978_3_14
+  norm: UNI EN 12978:2009
+  clause: '3.14'
+  title: 'malfunzionamenti pericolosi: Il malfunzionamento che impedisce, o ritarda, che gli OSSD'
+  keywords:
+  - malfunzionamenti
+  - pericolosi
+  - malfunzionamento
+  - impedisce
+  - ritarda
+  - ossd
+  note: ''
+- id: EN12978_3_15
+  norm: UNI EN 12978:2009
+  clause: '3.15'
+  title: 'guasto: Stato di un componente elettrico caratterizzato dalla incapacità a svolgere la'
+  keywords:
+  - guasto
+  - stato
+  - componente
+  - elettrico
+  - caratterizzato
+  - dalla
+  - incapacità
+  - svolgere
+  note: ''
+- id: EN12978_3_16
+  norm: UNI EN 12978:2009
+  clause: '3.16'
+  title: 'area non attiva: Parte dell''area superficiale di un elemento sensibile della PSPE fuori'
+  keywords:
+  - area
+  - non
+  - attiva
+  - parte
+  - dell
+  - superficiale
+  - elemento
+  - sensibile
+  - pspe
+  - fuori
+  note: ''
+- id: EN12978_3_17
+  norm: UNI EN 12978:2009
+  clause: '3.17'
+  title: 'orientamento di installazione: Posizione nello spazio di un dispositivo o componente.'
+  keywords:
+  - orientamento
+  - installazione
+  - posizione
+  - nello
+  - spazio
+  - dispositivo
+  - componente
+  note: ''
+- id: EN12978_3_18
+  norm: UNI EN 12978:2009
+  clause: '3.18'
+  title: 'stato off del dispositivo di commutazione del segnale d''uscita (OSSD): Stato nel quale il'
+  keywords:
+  - stato
+  - 'off'
+  - dispositivo
+  - commutazione
+  - segnale
+  - uscita
+  - ossd
+  - nel
+  - quale
+  note: ''
+- id: EN12978_3_19
+  norm: UNI EN 12978:2009
+  clause: '3.19'
+  title: 'stato on del dispositivo di commutazione del segnale di uscita (OSSD): Stato nel quale il'
+  keywords:
+  - stato
+  - dispositivo
+  - commutazione
+  - segnale
+  - uscita
+  - ossd
+  - nel
+  - quale
+  note: ''
+- id: EN12978_3_20
+  norm: UNI EN 12978:2009
+  clause: '3.20'
+  title: 'dispositivo di commutazione del segnale d''uscita (OSSD): Componente dell’ESPE o del'
+  keywords:
+  - dispositivo
+  - commutazione
+  - segnale
+  - uscita
+  - ossd
+  - componente
+  - dell
+  - espe
+  note: ''
+- id: EN12978_3_21
+  norm: UNI EN 12978:2009
+  clause: '3.21'
+  title: 'barra sensibile alla pressione: Tipo di PSPE che genera un segnale quando una forza è'
+  keywords:
+  - barra
+  - sensibile
+  - alla
+  - pressione
+  - tipo
+  - pspe
+  - genera
+  - segnale
+  - forza
+  note: ''
+- id: EN12978_3_22
+  norm: UNI EN 12978:2009
+  clause: '3.22'
+  title: 'bordo sensibile alla pressione: Tipo di PSPE che genera un segnale quando una forza è'
+  keywords:
+  - bordo
+  - sensibile
+  - alla
+  - pressione
+  - tipo
+  - pspe
+  - genera
+  - segnale
+  - forza
+  note: ''
+- id: EN12978_3_23
+  norm: UNI EN 12978:2009
+  clause: '3.23'
+  title: 'pavimento sensibile alla pressione: Tipo di PSPE che genera un segnale quando una'
+  keywords:
+  - pavimento
+  - sensibile
+  - alla
+  - pressione
+  - tipo
+  - pspe
+  - genera
+  - segnale
+  note: ''
+- id: EN12978_3_24
+  norm: UNI EN 12978:2009
+  clause: '3.24'
+  title: 'tappeto sensibile alla pressione: Tipo di PSPE che genera un segnale quando la forza è'
+  keywords:
+  - tappeto
+  - sensibile
+  - alla
+  - pressione
+  - tipo
+  - pspe
+  - genera
+  - segnale
+  - forza
+  note: ''
+- id: EN12978_3_25
+  norm: UNI EN 12978:2009
+  clause: '3.25'
+  title: 'tempo di risposta: Massimo tempo tra l''accadimento dell''evento che causa l''attivazione'
+  keywords:
+  - tempo
+  - risposta
+  - massimo
+  - tra
+  - accadimento
+  - dell
+  - evento
+  - causa
+  - attivazione
+  note: ''
+- id: EN12978_3_26
+  norm: UNI EN 12978:2009
+  clause: '3.26'
+  title: 'elemento sensibile: Parte del PSPE che cambia lo stato in uscita quando la forza di'
+  keywords:
+  - elemento
+  - sensibile
+  - parte
+  - pspe
+  - cambia
+  - stato
+  - uscita
+  - forza
+  note: ''
+- id: EN12978_3_27
+  norm: UNI EN 12978:2009
+  clause: '3.27'
+  title: 'funzione sensibile: Funzione dell''ESPE che usa mezzi elettro-sensibili per determinare'
+  keywords:
+  - funzione
+  - sensibile
+  - dell
+  - espe
+  - usa
+  - mezzi
+  - elettro
+  - sensibili
+  - determinare
+  note: ''
+- id: EN12978_3_28
+  norm: UNI EN 12978:2009
+  clause: '3.28'
+  title: 'porte da garage domestiche: Porte usate su un garage domestico che è previsto solo per'
+  keywords:
+  - porte
+  - garage
+  - domestiche
+  - usate
+  - domestico
+  - previsto
+  - solo
+  note: ''
+- id: EN12978_4_1_1_1
+  norm: UNI EN 12978:2009
+  clause: 4.1.1.1
+  title: Condizioni climatiche
+  keywords:
+  - condizioni
+  - climatiche
+  note: ''
+- id: EN12978_4_1_1_2
+  norm: UNI EN 12978:2009
+  clause: 4.1.1.2
+  title: Compatibilità elettromagnetica
+  keywords:
+  - compatibilità
+  - elettromagnetica
+  note: ''
+- id: EN12978_4_1_1_3
+  norm: UNI EN 12978:2009
+  clause: 4.1.1.3
+  title: Vibrazioni
+  keywords:
+  - vibrazioni
+  note: ''
+- id: EN12978_4_1_2_1
+  norm: UNI EN 12978:2009
+  clause: 4.1.2.1
+  title: Alimentazione elettrica
+  keywords:
+  - alimentazione
+  - elettrica
+  note: ''
+- id: EN12978_4_3_1
+  norm: UNI EN 12978:2009
+  clause: 4.3.1
+  title: e 4.3.4 della EN 60204-1:1997.
+  keywords:
+  - '60204'
+  - '1997'
+  note: ''
+- id: EN12978_4_1_2_2
+  norm: UNI EN 12978:2009
+  clause: 4.1.2.2
+  title: Alimentazione interna non elettrica
+  keywords:
+  - alimentazione
+  - interna
+  - non
+  - elettrica
+  note: ''
+- id: EN12978_6_2
+  norm: UNI EN 12978:2009
+  clause: '6.2'
+  title: e 6.3 della EN 60204-1:1997.
+  keywords:
+  - '60204'
+  - '1997'
+  note: ''
+- id: EN12978_4_1_5_1
+  norm: UNI EN 12978:2009
+  clause: 4.1.5.1
+  title: Risposta dei dispositivi di sicurezza
+  keywords:
+  - risposta
+  - dispositivi
+  - sicurezza
+  note: ''
+- id: EN12978_4_1_5_2
+  norm: UNI EN 12978:2009
+  clause: 4.1.5.2
+  title: Capacità di rilevamento
+  keywords:
+  - capacità
+  - rilevamento
+  note: ''
+- id: EN12978_4_2_2_1
+  norm: UNI EN 12978:2009
+  clause: 4.2.2.1
+  title: Singolo elemento sensibile
+  keywords:
+  - singolo
+  - elemento
+  - sensibile
+  note: ''
+- id: EN12978_4_2_2_2
+  norm: UNI EN 12978:2009
+  clause: 4.2.2.2
+  title: Combinazione di elementi sensibili
+  keywords:
+  - combinazione
+  - elementi
+  - sensibili
+  note: ''
+- id: EN12978_4_2_3_1
+  norm: UNI EN 12978:2009
+  clause: 4.2.3.1
+  title: Recupero dopo deformazione
+  keywords:
+  - recupero
+  - dopo
+  - deformazione
+  note: ''
+- id: EN12978_1
+  norm: UNI EN 12978:2009
+  clause: '1'
+  title: per un periodo di 24 h, l'area attiva deve recuperare le stesse caratteristiche di prima del
+  keywords:
+  - periodo
+  - area
+  - attiva
+  - deve
+  - recuperare
+  - stesse
+  - caratteristiche
+  - prima
+  note: ''
+- id: EN12978_4_2_3_2
+  norm: UNI EN 12978:2009
+  clause: 4.2.3.2
+  title: Parti sporgenti
+  keywords:
+  - parti
+  - sporgenti
+  note: ''
+- id: EN12978_4_2_4_1
+  norm: UNI EN 12978:2009
+  clause: 4.2.4.1
+  title: Forza statica
+  keywords:
+  - forza
+  - statica
+  note: ''
+- id: EN12978_4_2_4_1_1
+  norm: UNI EN 12978:2009
+  clause: 4.2.4.1.1
+  title: Capacità di carico dell'elemento sensibile
+  keywords:
+  - capacità
+  - carico
+  - dell
+  - elemento
+  - sensibile
+  note: ''
+- id: EN12978_4_2_4_1_2
+  norm: UNI EN 12978:2009
+  clause: 4.2.4.1.2
+  title: Capacità di deformazione dell'elemento sensibile
+  keywords:
+  - capacità
+  - deformazione
+  - dell
+  - elemento
+  - sensibile
+  note: ''
+- id: EN12978_4_2_4_2
+  norm: UNI EN 12978:2009
+  clause: 4.2.4.2
+  title: Rischio di inciampo
+  keywords:
+  - rischio
+  - inciampo
+  note: ''
+- id: EN12978_4_2_4_3
+  norm: UNI EN 12978:2009
+  clause: 4.2.4.3
+  title: Scivolosità e morbidezza delle superfici superiori dell'elemento sensibile.
+  keywords:
+  - scivolosità
+  - morbidezza
+  - superfici
+  - superiori
+  - dell
+  - elemento
+  - sensibile
+  note: ''
+- id: EN12978_4_2_4_4
+  norm: UNI EN 12978:2009
+  clause: 4.2.4.4
+  title: Combinazioni di tappeti sensibili alla pressione
+  keywords:
+  - combinazioni
+  - tappeti
+  - sensibili
+  - alla
+  - pressione
+  note: ''
+- id: EN12978_4_2_4_5
+  norm: UNI EN 12978:2009
+  clause: 4.2.4.5
+  title: Numero di operazioni
+  keywords:
+  - numero
+  - operazioni
+  note: ''
+- id: EN12978_4_2_4_6
+  norm: UNI EN 12978:2009
+  clause: 4.2.4.6
+  title: Fissaggio
+  keywords:
+  - fissaggio
+  note: ''
+- id: EN12978_7_2_1_1
+  norm: UNI EN 12978:2009
+  clause: 7.2.1.1
+  title: Apparati di protezione sensibili alla pressione
+  keywords:
+  - apparati
+  - protezione
+  - sensibili
+  - alla
+  - pressione
+  note: ''
+- id: EN12978_7_2_1_1_1
+  norm: UNI EN 12978:2009
+  clause: 7.2.1.1.1
+  title: Bordo/i o barra/e sensibili alla pressione
+  keywords:
+  - bordo
+  - barra
+  - sensibili
+  - alla
+  - pressione
+  note: ''
+- id: EN12978_7_2_1_1_2
+  norm: UNI EN 12978:2009
+  clause: 7.2.1.1.2
+  title: Tappeto/i o pavimento/i sensibili alla pressione
+  keywords:
+  - tappeto
+  - pavimento
+  - sensibili
+  - alla
+  - pressione
+  note: ''
+- id: EN12978_7_2_1_2
+  norm: UNI EN 12978:2009
+  clause: 7.2.1.2
+  title: Apparati di protezione elettrosensibile (tutti i tipi)
+  keywords:
+  - apparati
+  - protezione
+  - elettrosensibile
+  - tutti
+  - tipi
+  note: ''
+- id: EN12978_7_4_2
+  norm: UNI EN 12978:2009
+  clause: 7.4.2
+  title: prospetto
+  keywords:
+  - prospetto
+  note: ''
+- id: EN12978_4_1_1_2
+  norm: UNI EN 12978:2009
+  clause: 4.1.1.2
+  title: e sono correttamente installati e collegati per minimizzare i disturbi e/o i loro effetti
+  keywords:
+  - sono
+  - correttamente
+  - installati
+  - collegati
+  - minimizzare
+  - disturbi
+  - loro
+  - effetti
+  note: ''
+- id: EN12978_7_4_6_1
+  norm: UNI EN 12978:2009
+  clause: 7.4.6.1
+  title: Variazione della tensione di alimentazione
+  keywords:
+  - variazione
+  - tensione
+  - alimentazione
+  note: ''
+- id: EN12978_7_4_6_2
+  norm: UNI EN 12978:2009
+  clause: 7.4.6.2
+  title: Interruzioni della tensione di alimentazione
+  keywords:
+  - interruzioni
+  - tensione
+  - alimentazione
+  note: ''
+- id: EN12978_7_4_6_3
+  norm: UNI EN 12978:2009
+  clause: 7.4.6.3
+  title: Alimentazione non elettrica
+  keywords:
+  - alimentazione
+  - non
+  - elettrica
+  note: ''
+- id: EN12978_7_7_1_1
+  norm: UNI EN 12978:2009
+  clause: 7.7.1.1
+  title: Funzione sensibile
+  keywords:
+  - funzione
+  - sensibile
+  note: ''
+- id: EN12978_7_7_1_1_1
+  norm: UNI EN 12978:2009
+  clause: 7.7.1.1.1
+  title: Bordo sensibile alla pressione
+  keywords:
+  - bordo
+  - sensibile
+  - alla
+  - pressione
+  note: ''
+- id: EN12978_7_7_1_1_2
+  norm: UNI EN 12978:2009
+  clause: 7.7.1.1.2
+  title: Tappeto o pavimento sensibile alla pressione
+  keywords:
+  - tappeto
+  - pavimento
+  - sensibile
+  - alla
+  - pressione
+  note: ''
+- id: EN12978_7_7_1_1_3
+  norm: UNI EN 12978:2009
+  clause: 7.7.1.1.3
+  title: Dispositivo di sicurezza opto-elettronico
+  keywords:
+  - dispositivo
+  - sicurezza
+  - opto
+  - elettronico
+  note: ''
+- id: EN12978_7
+  norm: UNI EN 12978:2009
+  clause: '7'
+  title: della EN 12445:2000 o 5.4.2 del prEN 12650-1:1996, come appropriato, in base al tipo di
+  keywords:
+  - '12445'
+  - '2000'
+  - pren
+  - '12650'
+  - '1996'
+  - come
+  - appropriato
+  - base
+  - tipo
+  note: ''
+- id: EN12978_7_7_1_1_4
+  norm: UNI EN 12978:2009
+  clause: 7.7.1.1.4
+  title: Dispositivi capacitivi, infrarossi attivi e a ultrasuoni
+  keywords:
+  - dispositivi
+  - capacitivi
+  - infrarossi
+  - attivi
+  - ultrasuoni
+  note: ''
+- id: EN12978_7_7_1_2
+  norm: UNI EN 12978:2009
+  clause: 7.7.1.2
+  title: Integrità della capacità di rilevazione
+  keywords:
+  - integrità
+  - capacità
+  - rilevazione
+  note: ''
+- id: EN12978_7_7_1_3
+  norm: UNI EN 12978:2009
+  clause: 7.7.1.3
+  title: Prova dei dispositivi di sicurezza installati su una porta motorizzata
+  keywords:
+  - prova
+  - dispositivi
+  - sicurezza
+  - installati
+  - porta
+  - motorizzata
+  note: ''
+- id: EN12978_1
+  norm: UNI EN 12978:2009
+  clause: '1'
+  title: 'Rischi meccanici dovuti a:'
+  keywords:
+  - rischi
+  - meccanici
+  - dovuti
+  note: ''
+- id: EN12978_4_2_4_6
+  norm: UNI EN 12978:2009
+  clause: 4.2.4.6
+  title: 1.3 Rischio di tagli o rotture 4.2.3.2
+  keywords:
+  - rischio
+  - tagli
+  - rotture
+  note: ''
+- id: EN12978_2
+  norm: UNI EN 12978:2009
+  clause: '2'
+  title: 'Rischi elettrici dovuti a:'
+  keywords:
+  - rischi
+  - elettrici
+  - dovuti
+  note: ''
+- id: EN12978_2_1
+  norm: UNI EN 12978:2009
+  clause: '2.1'
+  title: Contatto di persone con parti sotto tensione (contatto diretto) 4.1.3
+  keywords:
+  - contatto
+  - persone
+  - parti
+  - sotto
+  - tensione
+  - diretto
+  note: ''
+- id: EN12978_2_2
+  norm: UNI EN 12978:2009
+  clause: '2.2'
+  title: Contatto di persone con parti che sono diventate sotto tensione in condizione di
+  keywords:
+  - contatto
+  - persone
+  - parti
+  - sono
+  - diventate
+  - sotto
+  - tensione
+  - condizione
+  note: ''
+- id: EN12978_4_1_3
+  norm: UNI EN 12978:2009
+  clause: 4.1.3
+  title: 6 Rischi generati da radiazione
+  keywords:
+  - rischi
+  - generati
+  - radiazione
+  note: ''
+- id: EN12978_6_5
+  norm: UNI EN 12978:2009
+  clause: '6.5'
+  title: Laser 4.3.2
+  keywords:
+  - laser
+  note: ''
+- id: EN12978_8
+  norm: UNI EN 12978:2009
+  clause: '8'
+  title: Rischi generati da mancata considerazione dei principi ergonomici nella
+  keywords:
+  - rischi
+  - generati
+  - mancata
+  - considerazione
+  - principi
+  - ergonomici
+  - nella
+  note: ''
+- id: EN12978_8_1
+  norm: UNI EN 12978:2009
+  clause: '8.1'
+  title: Sforzo eccessivo o insufficiente 4.2.2
+  keywords:
+  - sforzo
+  - eccessivo
+  - insufficiente
+  note: ''
+- id: EN12978_8_6
+  norm: UNI EN 12978:2009
+  clause: '8.6'
+  title: Comportamento umano 4.1.6
+  keywords:
+  - comportamento
+  - umano
+  note: ''
+- id: EN12978_10
+  norm: UNI EN 12978:2009
+  clause: '10'
+  title: Avviamento inaspettato, inaspettata extra-corsa/velocità eccessiva (o altro simile
+  keywords:
+  - avviamento
+  - inaspettato
+  - inaspettata
+  - extra
+  - corsa
+  - velocità
+  - eccessiva
+  - altro
+  - simile
+  note: ''
+- id: EN12978_10_1
+  norm: UNI EN 12978:2009
+  clause: '10.1'
+  title: Errore/disturbo del sistema di controllo 4.1/4.1.5/
+  keywords:
+  - errore
+  - disturbo
+  - sistema
+  - controllo
+  note: ''
+- id: EN12978_10_2
+  norm: UNI EN 12978:2009
+  clause: '10.2'
+  title: Ripristino dell'alimentazione dopo un'interruzione 4.1.3
+  keywords:
+  - ripristino
+  - dell
+  - alimentazione
+  - dopo
+  - interruzione
+  note: ''
+- id: EN12978_10_3
+  norm: UNI EN 12978:2009
+  clause: '10.3'
+  title: Influenza esterna sull'equipaggiamento elettrica 4.1.1/4.1.3/
+  keywords:
+  - influenza
+  - esterna
+  - sull
+  - equipaggiamento
+  - elettrica
+  note: ''
+- id: EN12978_13
+  norm: UNI EN 12978:2009
+  clause: '13'
+  title: Guasto dell'alimentazione 4.1
+  keywords:
+  - guasto
+  - dell
+  - alimentazione
+  note: ''
+- id: EN12978_14
+  norm: UNI EN 12978:2009
+  clause: '14'
+  title: Guasto del circuito di controllo 4.1
+  keywords:
+  - guasto
+  - circuito
+  - controllo
+  note: ''
+- id: EN12978_15
+  norm: UNI EN 12978:2009
+  clause: '15'
+  title: Errori di montaggio 4.1.3
+  keywords:
+  - errori
+  - montaggio
+  note: ''
+- id: EN12978_19
+  norm: UNI EN 12978:2009
+  clause: '19'
+  title: Scivolamento, inciampo e caduta delle persone (relativi al dispositivo di sicurezza) 4.2.4.2/4.2.4.3
+  keywords:
+  - scivolamento
+  - inciampo
+  - caduta
+  - persone
+  - relativi
+  - dispositivo
+  - sicurezza
+  note: ''
+- id: EN12604_1
+  norm: UNI EN 12604:2017
+  clause: '1'
+  title: SCOPO E CAMPO DI APPLICAZIONE
+  keywords:
+  - scopo
+  - campo
+  - applicazione
+  note: ''
+- id: EN12604_2
+  norm: UNI EN 12604:2017
+  clause: '2'
+  title: RIFERIMENTI NORMATIVI
+  keywords:
+  - riferimenti
+  - normativi
+  note: ''
+- id: EN12604_3
+  norm: UNI EN 12604:2017
+  clause: '3'
+  title: TERMINI E DEFINIZIONI
+  keywords:
+  - termini
+  - definizioni
+  note: ''
+- id: EN12604_4
+  norm: UNI EN 12604:2017
+  clause: '4'
+  title: REQUISITI DI SICUREZZA E/O MISURE PROTETTIVE
+  keywords:
+  - requisiti
+  - sicurezza
+  - misure
+  - protettive
+  note: ''
+- id: EN12604_4_1
+  norm: UNI EN 12604:2017
+  clause: '4.1'
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12604_4_2
+  norm: UNI EN 12604:2017
+  clause: '4.2'
+  title: Progettazione e costruzione
+  keywords:
+  - progettazione
+  - costruzione
+  note: ''
+- id: EN12604_4_2_1
+  norm: UNI EN 12604:2017
+  clause: 4.2.1
+  title: Manovrabilità
+  keywords:
+  - manovrabilità
+  note: ''
+- id: EN12604_4_2_2
+  norm: UNI EN 12604:2017
+  clause: 4.2.2
+  title: Vetrate
+  keywords:
+  - vetrate
+  note: ''
+- id: EN12604_4_3
+  norm: UNI EN 12604:2017
+  clause: '4.3'
+  title: Protezione contro movimenti involontari e incontrollati
+  keywords:
+  - protezione
+  - contro
+  - movimenti
+  - involontari
+  - incontrollati
+  note: ''
+- id: EN12604_4_3_1
+  norm: UNI EN 12604:2017
+  clause: 4.3.1
+  title: Guide e finecorsa
+  keywords:
+  - guide
+  - finecorsa
+  note: ''
+- id: EN12604_4_3_2
+  norm: UNI EN 12604:2017
+  clause: 4.3.2
+  title: Movimenti involontari dovuti al vento
+  keywords:
+  - movimenti
+  - involontari
+  - dovuti
+  - vento
+  note: ''
+- id: EN12604_4_3_3
+  norm: UNI EN 12604:2017
+  clause: 4.3.3
+  title: Movimenti incontrollati delle porte con movimento verticale
+  keywords:
+  - movimenti
+  - incontrollati
+  - porte
+  - movimento
+  - verticale
+  note: ''
+- id: EN12604_4_3_4
+  norm: UNI EN 12604:2017
+  clause: 4.3.4
+  title: Protezione contro la caduta per ante di porte con movimento verticale
+  keywords:
+  - protezione
+  - contro
+  - caduta
+  - ante
+  - porte
+  - movimento
+  - verticale
+  note: ''
+- id: EN12604_4_3_5
+  norm: UNI EN 12604:2017
+  clause: 4.3.5
+  title: Protezione contro la caduta di porte incernierate
+  keywords:
+  - protezione
+  - contro
+  - caduta
+  - porte
+  - incernierate
+  note: ''
+- id: EN12604_4_4
+  norm: UNI EN 12604:2017
+  clause: '4.4'
+  title: Forze per l'azionamento manuale
+  keywords:
+  - forze
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12604_4_5
+  norm: UNI EN 12604:2017
+  clause: '4.5'
+  title: Dispositivi per l'azionamento manuale
+  keywords:
+  - dispositivi
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12604_4_6
+  norm: UNI EN 12604:2017
+  clause: '4.6'
+  title: Protezione delle dita
+  keywords:
+  - protezione
+  - dita
+  note: ''
+- id: EN12604_4_7
+  norm: UNI EN 12604:2017
+  clause: '4.7'
+  title: Requisiti specifici per le parti utilizzate nei sistemi di sospensione e
+  keywords:
+  - requisiti
+  - specifici
+  - parti
+  - utilizzate
+  - nei
+  - sistemi
+  - sospensione
+  note: ''
+- id: EN12604_4_7_1
+  norm: UNI EN 12604:2017
+  clause: 4.7.1
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12604_4_7_2
+  norm: UNI EN 12604:2017
+  clause: 4.7.2
+  title: Molle
+  keywords:
+  - molle
+  note: ''
+- id: EN12604_4_7_3
+  norm: UNI EN 12604:2017
+  clause: 4.7.3
+  title: Contrappesi
+  keywords:
+  - contrappesi
+  note: ''
+- id: EN12604_4_7_4
+  norm: UNI EN 12604:2017
+  clause: 4.7.4
+  title: Funi d'acciaio, catene, cinghie
+  keywords:
+  - funi
+  - acciaio
+  - catene
+  - cinghie
+  note: ''
+- id: EN12604_4_8
+  norm: UNI EN 12604:2017
+  clause: '4.8'
+  title: Portoncini
+  keywords:
+  - portoncini
+  note: ''
+- id: EN12604_4_9
+  norm: UNI EN 12604:2017
+  clause: '4.9'
+  title: Requisiti addizionali per porte azionate per gravità o altro meccanismo
+  keywords:
+  - requisiti
+  - addizionali
+  - porte
+  - azionate
+  - gravità
+  - altro
+  - meccanismo
+  note: ''
+- id: EN12604_5
+  norm: UNI EN 12604:2017
+  clause: '5'
+  title: VERIFICA DEI REQUISITI DI SICUREZZA E/O DELLE MISURE DI
+  keywords:
+  - verifica
+  - requisiti
+  - sicurezza
+  - misure
+  note: ''
+- id: EN12604_5_1
+  norm: UNI EN 12604:2017
+  clause: '5.1'
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12604_5_2
+  norm: UNI EN 12604:2017
+  clause: '5.2'
+  title: Progettazione e costruzione
+  keywords:
+  - progettazione
+  - costruzione
+  note: ''
+- id: EN12604_5_2_1
+  norm: UNI EN 12604:2017
+  clause: 5.2.1
+  title: Manovrabilità
+  keywords:
+  - manovrabilità
+  note: ''
+- id: EN12604_5_2_2
+  norm: UNI EN 12604:2017
+  clause: 5.2.2
+  title: Vetrate
+  keywords:
+  - vetrate
+  note: ''
+- id: EN12604_5_3
+  norm: UNI EN 12604:2017
+  clause: '5.3'
+  title: Protezione contro movimenti involontari e incontrollati
+  keywords:
+  - protezione
+  - contro
+  - movimenti
+  - involontari
+  - incontrollati
+  note: ''
+- id: EN12604_5_3_1
+  norm: UNI EN 12604:2017
+  clause: 5.3.1
+  title: Guide e finecorsa
+  keywords:
+  - guide
+  - finecorsa
+  note: ''
+- id: EN12604_5_3_2
+  norm: UNI EN 12604:2017
+  clause: 5.3.2
+  title: Movimenti involontari dovuti al vento
+  keywords:
+  - movimenti
+  - involontari
+  - dovuti
+  - vento
+  note: ''
+- id: EN12604_5_3_3
+  norm: UNI EN 12604:2017
+  clause: 5.3.3
+  title: Movimenti incontrollati delle porte con movimento verticale
+  keywords:
+  - movimenti
+  - incontrollati
+  - porte
+  - movimento
+  - verticale
+  note: ''
+- id: EN12604_5_3_4
+  norm: UNI EN 12604:2017
+  clause: 5.3.4
+  title: Protezione contro la caduta per ante di porte con movimento verticale
+  keywords:
+  - protezione
+  - contro
+  - caduta
+  - ante
+  - porte
+  - movimento
+  - verticale
+  note: ''
+- id: EN12604_5_3_5
+  norm: UNI EN 12604:2017
+  clause: 5.3.5
+  title: Protezione contro la caduta di porte incernierate
+  keywords:
+  - protezione
+  - contro
+  - caduta
+  - porte
+  - incernierate
+  note: ''
+- id: EN12604_5_4
+  norm: UNI EN 12604:2017
+  clause: '5.4'
+  title: Forze per l'azionamento manuale
+  keywords:
+  - forze
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12604_5_5
+  norm: UNI EN 12604:2017
+  clause: '5.5'
+  title: Dispositivi per l'azionamento manuale
+  keywords:
+  - dispositivi
+  - azionamento
+  - manuale
+  note: ''
+- id: EN12604_5_6
+  norm: UNI EN 12604:2017
+  clause: '5.6'
+  title: Protezione delle dita
+  keywords:
+  - protezione
+  - dita
+  note: ''
+- id: EN12604_5_7
+  norm: UNI EN 12604:2017
+  clause: '5.7'
+  title: Requisiti specifici per le parti utilizzate nei sistemi di sospensione e
+  keywords:
+  - requisiti
+  - specifici
+  - parti
+  - utilizzate
+  - nei
+  - sistemi
+  - sospensione
+  note: ''
+- id: EN12604_5_7_1
+  norm: UNI EN 12604:2017
+  clause: 5.7.1
+  title: Molle
+  keywords:
+  - molle
+  note: ''
+- id: EN12604_5_7_2
+  norm: UNI EN 12604:2017
+  clause: 5.7.2
+  title: Contrappesi
+  keywords:
+  - contrappesi
+  note: ''
+- id: EN12604_5_7_3
+  norm: UNI EN 12604:2017
+  clause: 5.7.3
+  title: Funi d'acciaio, catene, cinghie
+  keywords:
+  - funi
+  - acciaio
+  - catene
+  - cinghie
+  note: ''
+- id: EN12604_5_8
+  norm: UNI EN 12604:2017
+  clause: '5.8'
+  title: Portoncini
+  keywords:
+  - portoncini
+  note: ''
+- id: EN12604_5_9
+  norm: UNI EN 12604:2017
+  clause: '5.9'
+  title: Segnali e/o dispositivi di avvertimento
+  keywords:
+  - segnali
+  - dispositivi
+  - avvertimento
+  note: ''
+- id: EN12604_APP_A
+  norm: UNI EN 12604:2017
+  clause: Appendice A
+  title: LINEE GUIDA PER UNA COSTRUZIONE SICURA
+  keywords:
+  - linee
+  - guida
+  - costruzione
+  - sicura
+  note: ''
+- id: EN12604_APP_B
+  norm: UNI EN 12604:2017
+  clause: Appendice B
+  title: ESEMPI DI PROTEZIONE MECCANICA E DISTANZE DI SICUREZZA
+  keywords:
+  - esempi
+  - protezione
+  - meccanica
+  - distanze
+  - sicurezza
+  note: ''
+- id: EN12604_150
+  norm: UNI EN 12604:2017
+  clause: '150'
+  title: N per porte per uso residenziale e di 260 N per persona per uso
+  keywords:
+  - porte
+  - uso
+  - residenziale
+  - '260'
+  - persona
+  note: ''
+- id: EN12604_6
+  norm: UNI EN 12604:2017
+  clause: '6'
+  title: mm (per esempio almeno 2 mm + 4 mm o 3 mm + 3 mm) sono considerati sicuri.
+  keywords:
+  - esempio
+  - almeno
+  - sono
+  - considerati
+  - sicuri
+  note: ''
+- id: EN12604_4_7_4_1
+  norm: UNI EN 12604:2017
+  clause: 4.7.4.1
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12604_4_7_4_2
+  norm: UNI EN 12604:2017
+  clause: 4.7.4.2
+  title: Funi d'acciaio, pulegge e tamburi
+  keywords:
+  - funi
+  - acciaio
+  - pulegge
+  - tamburi
+  note: ''
+- id: EN12604_4_7_4_3
+  norm: UNI EN 12604:2017
+  clause: 4.7.4.3
+  title: Cinghie
+  keywords:
+  - cinghie
+  note: ''
+- id: EN12604_4_7_4_4
+  norm: UNI EN 12604:2017
+  clause: 4.7.4.4
+  title: Catene e pulegge per catene
+  keywords:
+  - catene
+  - pulegge
+  note: ''
+- id: EN12604_4_9
+  norm: UNI EN 12604:2017
+  clause: '4.9'
+  title: Requisiti addizionali per porte azionate per gravità o altro meccanismo autochiudente
+  keywords:
+  - requisiti
+  - addizionali
+  - porte
+  - azionate
+  - gravità
+  - altro
+  - meccanismo
+  - autochiudente
+  note: ''
+- id: EN12604_5
+  norm: UNI EN 12604:2017
+  clause: '5'
+  title: VERIFICA DEI REQUISITI DI SICUREZZA E/O DELLE MISURE DI PROTEZIONE
+  keywords:
+  - verifica
+  - requisiti
+  - sicurezza
+  - misure
+  - protezione
+  note: ''
+- id: EN12604_5_7
+  norm: UNI EN 12604:2017
+  clause: '5.7'
+  title: Requisiti specifici per le parti utilizzate nei sistemi di sospensione e bilanciamento
+  keywords:
+  - requisiti
+  - specifici
+  - parti
+  - utilizzate
+  - nei
+  - sistemi
+  - sospensione
+  - bilanciamento
+  note: ''
+- id: EN12604_5_7_3_1
+  norm: UNI EN 12604:2017
+  clause: 5.7.3.1
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: EN12604_5_7_3_2
+  norm: UNI EN 12604:2017
+  clause: 5.7.3.2
+  title: Funi d'acciaio, pulegge e tamburi
+  keywords:
+  - funi
+  - acciaio
+  - pulegge
+  - tamburi
+  note: ''
+- id: EN12604_5_7_3_3
+  norm: UNI EN 12604:2017
+  clause: 5.7.3.3
+  title: Cinghie
+  keywords:
+  - cinghie
+  note: ''
+- id: EN12604_5_7_3_4
+  norm: UNI EN 12604:2017
+  clause: 5.7.3.4
+  title: Catene e pulegge per catene
+  keywords:
+  - catene
+  - pulegge
+  note: ''
+- id: EN12604_3
+  norm: UNI EN 12604:2017
+  clause: '3'
+  title: m e peso ≥ 100 kg quando azionata in
+  keywords:
+  - peso
+  - '100'
+  - azionata
+  note: ''
+- id: EN12604_1
+  norm: UNI EN 12604:2017
+  clause: '1'
+  title: Maniglia
+  keywords:
+  - maniglia
+  note: ''
+- id: UNI11894_1_1
+  norm: UNI 11894-1:2023
+  clause: '1'
+  title: SCOPO
+  keywords:
+  - scopo
+  note: ''
+- id: UNI11894_1_2
+  norm: UNI 11894-1:2023
+  clause: '2'
+  title: RIFERIMENTI NORMATIVI
+  keywords:
+  - riferimenti
+  - normativi
+  note: ''
+- id: UNI11894_1_3
+  norm: UNI 11894-1:2023
+  clause: '3'
+  title: TERMINI
+  keywords:
+  - termini
+  note: ''
+- id: UNI11894_1_4
+  norm: UNI 11894-1:2023
+  clause: '4'
+  title: RUOLI E RESPONSABILITA’
+  keywords:
+  - ruoli
+  - responsabilita
+  note: ''
+- id: UNI11894_1_4_1
+  norm: UNI 11894-1:2023
+  clause: '4.1'
+  title: Generalità
+  keywords:
+  - generalità
+  note: ''
+- id: UNI11894_1_4_2
+  norm: UNI 11894-1:2023
+  clause: '4.2'
+  title: Processi che definiscono la sequenza dei compiti e responsabilità
+  keywords:
+  - processi
+  - definiscono
+  - sequenza
+  - compiti
+  - responsabilità
+  note: ''
+- id: UNI11894_1_1
+  norm: UNI 11894-1:2023
+  clause: '1'
+  title: Nota
+  keywords:
+  - nota
+  note: ''
+- id: UNI11894_1_3_1
+  norm: UNI 11894-1:2023
+  clause: '3.1'
+  title: 'fabbricante: Persona fisica o giuridica che fabbrichi un prodotto di cui allo scopo della'
+  keywords:
+  - fabbricante
+  - persona
+  - fisica
+  - giuridica
+  - fabbrichi
+  - prodotto
+  - cui
+  - allo
+  - scopo
+  note: ''
+- id: UNI11894_1_3_2
+  norm: UNI 11894-1:2023
+  clause: '3.2'
+  title: 'manutentore: Persona fisica o giuridica competente, incaricata della manutenzione'
+  keywords:
+  - manutentore
+  - persona
+  - fisica
+  - giuridica
+  - competente
+  - incaricata
+  - manutenzione
+  note: ''
+- id: UNI11894_1_3_3
+  norm: UNI 11894-1:2023
+  clause: '3.3'
+  title: 'manutenzione: Tutte le azioni tecniche, amministrative e gestionali eseguite durante il'
+  keywords:
+  - manutenzione
+  - tutte
+  - azioni
+  - tecniche
+  - amministrative
+  - gestionali
+  - eseguite
+  - durante
+  note: ''
+- id: UNI11894_1_3_4
+  norm: UNI 11894-1:2023
+  clause: '3.4'
+  title: 'modifica sostanziale: Modifica e/o trasformazione eseguita sulla porta che influisce sui'
+  keywords:
+  - modifica
+  - sostanziale
+  - trasformazione
+  - eseguita
+  - sulla
+  - porta
+  - influisce
+  - sui
+  note: ''
+- id: UNI11894_1_3_5
+  norm: UNI 11894-1:2023
+  clause: '3.5'
+  title: 'porta: Insieme di parti e componenti per chiudere e aprire un''apertura destinati'
+  keywords:
+  - porta
+  - insieme
+  - parti
+  - componenti
+  - chiudere
+  - aprire
+  - apertura
+  - destinati
+  note: ''
+- id: UNI11894_1_3_6
+  norm: UNI 11894-1:2023
+  clause: '3.6'
+  title: 'porta a scorrimento orizzontale: Porta il cui bordo di chiusura principale, durante il'
+  keywords:
+  - porta
+  - scorrimento
+  - orizzontale
+  - cui
+  - bordo
+  - chiusura
+  - principale
+  - durante
+  note: ''
+- id: UNI11894_1_3_7
+  norm: UNI 11894-1:2023
+  clause: '3.7'
+  title: 'porta a scorrimento verticale: Porta il cui bordo di chiusura principale, durante il'
+  keywords:
+  - porta
+  - scorrimento
+  - verticale
+  - cui
+  - bordo
+  - chiusura
+  - principale
+  - durante
+  note: ''
+- id: UNI11894_1_3_8
+  norm: UNI 11894-1:2023
+  clause: '3.8'
+  title: 'installatore/posatore: Persona fisica o giuridica competente, incaricata della installazione'
+  keywords:
+  - installatore
+  - posatore
+  - persona
+  - fisica
+  - giuridica
+  - competente
+  - incaricata
+  - installazione
+  note: ''
+- id: UNI11894_1_3_9
+  norm: UNI 11894-1:2023
+  clause: '3.9'
+  title: 'proprietario e/o conduttore: Persona fisica o giuridica che è responsabile della porta, del'
+  keywords:
+  - proprietario
+  - conduttore
+  - persona
+  - fisica
+  - giuridica
+  - responsabile
+  - porta
+  note: ''
+- id: UNI11894_1_3_10
+  norm: UNI 11894-1:2023
+  clause: '3.10'
+  title: 'riqualificazione: Insieme di operazioni effettuate al fine di risanare la porta, con lo scopo'
+  keywords:
+  - riqualificazione
+  - insieme
+  - operazioni
+  - effettuate
+  - fine
+  - risanare
+  - porta
+  - scopo
+  note: ''
+- id: UNI11894_1_3_11
+  norm: UNI 11894-1:2023
+  clause: '3.11'
+  title: '3.12'
+  keywords: []
+  note: ''
+- id: UNI11894_1_3_13
+  norm: UNI 11894-1:2023
+  clause: '3.13'
+  title: '3.14'
+  keywords: []
+  note: ''
+- id: UNI11894_1_3_15
+  norm: UNI 11894-1:2023
+  clause: '3.15'
+  title: Nota
+  keywords:
+  - nota
+  note: ''
+- id: UNI11894_1_4
+  norm: UNI 11894-1:2023
+  clause: '4'
+  title: '4.1'
+  keywords: []
+  note: ''
+- id: UNI11894_1_4_1_1
+  norm: UNI 11894-1:2023
+  clause: 4.1.1
+  title: Proprietario/conduttore
+  keywords:
+  - proprietario
+  - conduttore
+  note: ''
+- id: UNI11894_1_4_1_2
+  norm: UNI 11894-1:2023
+  clause: 4.1.2
+  title: Fabbricante
+  keywords:
+  - fabbricante
+  note: ''
+- id: UNI11894_1_4_1_3
+  norm: UNI 11894-1:2023
+  clause: 4.1.3
+  title: Utente
+  keywords:
+  - utente
+  note: ''
+- id: UNI11894_1_4_1_4
+  norm: UNI 11894-1:2023
+  clause: 4.1.4
+  title: Installatore/posatore
+  keywords:
+  - installatore
+  - posatore
+  note: ''
+- id: UNI11894_1_4_1_5
+  norm: UNI 11894-1:2023
+  clause: 4.1.5
+  title: Manutentore
+  keywords:
+  - manutentore
+  note: ''
+- id: UNI11894_1_4_2_8
+  norm: UNI 11894-1:2023
+  clause: 4.2.8
+  title: 4.2.1 Installazione/posa senza modifica sostanziale
+  keywords:
+  - installazione
+  - posa
+  - senza
+  - modifica
+  - sostanziale
+  note: ''
+- id: UNI11894_1_4_2_2
+  norm: UNI 11894-1:2023
+  clause: 4.2.2
+  title: Installazione/posa con modifica sostanziale
+  keywords:
+  - installazione
+  - posa
+  - modifica
+  - sostanziale
+  note: ''
+- id: UNI11894_1_4_2_3
+  norm: UNI 11894-1:2023
+  clause: 4.2.3
+  title: Presa in carico senza modifica sostanziale
+  keywords:
+  - presa
+  - carico
+  - senza
+  - modifica
+  - sostanziale
+  note: ''
+- id: UNI11894_1_4_2_4
+  norm: UNI 11894-1:2023
+  clause: 4.2.4
+  title: Presa in carico con modifica sostanziale
+  keywords:
+  - presa
+  - carico
+  - modifica
+  - sostanziale
+  note: ''
+- id: UNI11894_1_4_2_5
+  norm: UNI 11894-1:2023
+  clause: 4.2.5
+  title: Intervento con contratto di manutenzione (senza modifiche sostanziali)
+  keywords:
+  - intervento
+  - contratto
+  - manutenzione
+  - senza
+  - modifiche
+  - sostanziali
+  note: ''
+- id: UNI11894_1_4_2_6
+  norm: UNI 11894-1:2023
+  clause: 4.2.6
+  title: Intervento su chiamata (senza modifiche sostanziali)
+  keywords:
+  - intervento
+  - chiamata
+  - senza
+  - modifiche
+  - sostanziali
+  note: ''
+- id: UNI11894_1_4_2_7
+  norm: UNI 11894-1:2023
+  clause: 4.2.7
+  title: Intervento con modifica sostanziale
+  keywords:
+  - intervento
+  - modifica
+  - sostanziale
+  note: ''
+- id: UNI11894_1_4_2_8
+  norm: UNI 11894-1:2023
+  clause: 4.2.8
+  title: Trasformazione di una porta manuale in motorizzata
+  keywords:
+  - trasformazione
+  - porta
+  - manuale
+  - motorizzata
+  note: ''
+- id: UNI11894_1_17
+  norm: UNI 11894-1:2023
+  clause: '17'
+  title: maggio 2006 relativa alle macchine e che modifica la direttiva 95/16/CE
+  keywords:
+  - maggio
+  - '2006'
+  - relativa
+  - macchine
+  - modifica
+  - direttiva
+  note: ''
